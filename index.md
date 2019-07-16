@@ -25,8 +25,9 @@ concurrent and parallel systems.** If interested, please send an email to {{ pi_
 #### 2019
 
 - June, 2019: {%- include person_link.md person_id="kyeongmin.cho" %} joined as a master student,
-  and {%- include person_link.md person_id="jaehwang.jung" %} and {%- include person_link.md
-  person_id="jiseung.hong" %} joined as undergraduate students. Welcome!
+  and {%- include person_link.md person_id="jaehwang.jung" %}, {%- include person_link.md
+  person_id="jiseung.hong" %}, {%- include person_link.md
+  person_id="adi.yerembessov" %} joined as undergraduate students. Welcome!
 - February, 2019: Concurrency and Parallelism Laboratory was born.
 
 
