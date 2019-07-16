@@ -9,7 +9,7 @@ excerpt: "Adi Yerembessov's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl}}/assets/adi.yerembessov.jpg" alt="{{ person.name }}">
 	
-I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.ac.kr)**. The field of Computer Science that piqued my interest, during the years I've been studying at KAIST, is Computer Systems. For this reason, I've joined [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr).
+I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.ac.kr)**. The field of Computer Science that piqued my interest, during the years I've been studying at KAIST, is Computer Systems. For this reason, I was eager to join [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr).
 
 {% include person_contact.md person_id=person_id %}
 
@@ -23,5 +23,5 @@ I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.
 
 #### Awards and Honors
 
-- Dean's List of the School of Computing, 2018 Fall Semester.
+- Dean's List of the School of Computing, KAIST, 2018 Fall Semester.
 
