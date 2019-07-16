@@ -46,6 +46,16 @@
     "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
 
+- id: adi.yerembessov
+  name: Adi Yerembessov
+  status: present
+  title: Undergraduate Student
+  place: Rm. TODO, Bldg. E3-1, KAIST (+82-42-350-TODO)
+  github: hydium
+  educations: [
+    "(2020) B.S. in Computer Science. KAIST (expected).",
+  ]
+
 - id: Suh-Ryung Kim
   name: Suh-Ryung Kim
   status: external
