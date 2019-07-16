@@ -120,4 +120,4 @@ See the [publications]({{ site.baseurl }}{% link publications.md %}) page.
   Daejeon 34141, Korea
 
 - +82-42-350-3578 (Jeehoon)
-- +82-42-350-7878 (Jaehwang, Jiseung, kyeongmin)
+- +82-42-350-7878 (Students)
