@@ -113,7 +113,7 @@ See the [publications]({{ site.baseurl }}{% link publications.md %}) page.
 
 - GitHub: [kaist-cp](https://github.com/kaist-cp)
 
-- Rm. 4433 (Jeehoon) and Rm. 4432 (students), Bldg. E3-1
+- Rm. 4433 (Jeehoon) and Rm. 4441 (students), Bldg. E3-1
 
   School of Computing, KAIST
 
