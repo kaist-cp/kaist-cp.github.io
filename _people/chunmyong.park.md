@@ -55,8 +55,8 @@ The full list of the publications can be found at [Google Scholar]({{ person.goo
 #### Calendar
 
 <div class="responsive-iframe-container big-container">
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSeoul&amp;src=Y21wYXJrMDEyNkBnbWFpbC5jb20&amp;src=dGltMGV1YWduYWdyaTQxbzc0NHBpZTRxYmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;color=%23B39DDB&amp;showTitle=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK" style="border-width:0; margin-top:15pt;" width="600" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSeoul&amp;src=Y21wYXJrMDEyNkBnbWFpbC5jb20&amp;color=%233F51B5&amp;showTitle=0&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=1&amp;mode=WEEK" style="border-width:0; margin-top:15pt;" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 <div class="responsive-iframe-container small-container" style="height: 1000;">
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSeoul&amp;src=Y21wYXJrMDEyNkBnbWFpbC5jb20&amp;src=dGltMGV1YWduYWdyaTQxbzc0NHBpZTRxYmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;color=%23B39DDB&amp;showTitle=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK" style="border-width:0; margin-top:15pt;" width="600" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSeoul&amp;src=Y21wYXJrMDEyNkBnbWFpbC5jb20&amp;color=%233F51B5&amp;showTitle=0&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=1&amp;mode=WEEK" style="border-width:0; margin-top:15pt;" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
