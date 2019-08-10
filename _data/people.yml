@@ -24,6 +24,19 @@
     "(2019) B.S. in Computer Science and Engineering and Philosophy. Inha University.",
   ]
 
+- id: chunmyong.park
+  name: Chunmyong Park
+  korean_name: 박천명
+  status: present
+  title: Master Student
+  place: TBD
+  github: cmpark0126
+  dblp: https://dblp.uni-trier.de/search?q=Chunmyong%20Park
+  google_scholar: https://scholar.google.co.kr/citations?user=8ez_CnwAAAAJ&hl
+  educations: [
+    "(2019) B.S. in School of Computer Science & Electrical Engineering. Handong Global University.",
+  ]
+
 - id: jaehwang.jung
   name: Jaehwang Jung
   korean_name: 정재황
