@@ -9,7 +9,7 @@ excerpt: "Chunmyong Park's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl}}/assets/chunmyong.park.jpeg" alt="{{ person.name }}">
 
-I am an **Master Student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**. I am delighted to be advised by [Prof. Jeehoon Kang]({{ site.baseurl }}{% include person_url.md person_id="jeehoon.kang" %}).
+I am a **Master Student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**. I am delighted to be advised by [Prof. Jeehoon Kang]({{ site.baseurl }}{% include person_url.md person_id="jeehoon.kang" %}).
 
 My research interests are in designing and verifying concurrent and parallel systems. In particular, I want to solve various real-world problems associated with these topics. I believe these studies will help advance the areas such as Deep Learning where performance issues are critical.
 
