@@ -9,9 +9,6 @@ excerpt: "Jihoon Hyun's website"
 
 I am an **undergraduate student at [KAIST School of Computing](https://cs.kaist.ac.kr)**.
 
-
-#### Contact
-
 {% include person_contact.md person_id=person_id %}
 
 {% include person_education.md person_id=person_id %}
