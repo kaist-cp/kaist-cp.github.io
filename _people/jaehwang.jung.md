@@ -19,6 +19,10 @@ and type systems.
 {% include person_education.md person_id=person_id %}
 
 
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
+
 #### Experiences
 
 - Intern, Runtime Verification Inc., May, 2018 - August, 2018, January, 2019 - February 2019.
