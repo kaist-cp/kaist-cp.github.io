@@ -102,6 +102,16 @@
     "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
 
+- id: batzorig.zorigoo
+  name: Batzorig Zorigoo
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: qvntm
+  educations: [
+    "(2020) B.S. in Computer Science and Mathematics. KAIST (expected).",
+  ]
+
 - id: Suh-Ryung Kim
   name: Suh-Ryung Kim
   status: external
