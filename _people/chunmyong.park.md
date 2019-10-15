@@ -45,6 +45,7 @@ The full list of the publications can be found at [Google Scholar]({{ person.goo
 #### Open Source Contributions
 
 - [WICWIU](https://github.com/WICWIU/WICWIU): a deep learning library in C/C++
+- [torchlars](https://github.com/kakaobrain/torchlars): A LARS implementation in PyTorch.
 
 
 #### Awards and Honors
