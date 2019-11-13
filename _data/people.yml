@@ -47,6 +47,17 @@
     "(2020) B.S. in Computer Science. KAIST (expected).",
   ]
 
+- id: dongwoo.oh
+  name: Dongwoo Oh
+  korean_name: 오동우
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: garamceleste
+  educations: [
+    "(2020) B.S. in Mathematical Science. KAIST (expected).",
+  ]
+
 - id: jihoon.hyun
   name: Jihoon Hyun
   korean_name: 현지훈
