@@ -8,7 +8,7 @@ excerpt: "Dongwoo Oh's website"
 {%- assign person = site.data.people | where:"id",person_id | sample %}
 
 
-I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.ac.kr)**.
+I am an **Undergraduate Student at [Department of Mathematical Sciences at KAIST](https://mathsci.kaist.ac.kr/home/)**.
 I'm interested in various topics including but not limited to verification of
 concurrent and distributed systems, tools for easier concurrent programming,
 and type systems.
