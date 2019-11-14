@@ -8,7 +8,7 @@ excerpt: "Dongwoo Oh's website"
 {%- assign person = site.data.people | where:"id",person_id | sample %}
 
 
-I am an **Undergraduate Student at [Department of Mathematical Sciences at KAIST](https://mathsci.kaist.ac.kr/home/)**.
+I am an **Undergraduate Student at [Department of Mathematical Sciences at KAIST](https://mathsci.kaist.ac.kr/home/)**. I am grateful to start my Master Program and to be advised by [Prof. Jeehoon Kang]({{ site.baseurl }}{% include person_url.md person_id="jeehoon.kang" %}) from next semester(2020 Spring).
 I'm interested in various topics including but not limited to verification of
 concurrent and distributed systems, tools for easier concurrent programming,
 and type systems.
