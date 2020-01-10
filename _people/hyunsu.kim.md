@@ -23,7 +23,7 @@ Trying to become **[Rust](rust-lang.org)** enthusiast:fire:
 
 #### Experiences
 
-- Front-end web developer, [Classum](https://classum.com), February, 2019 - current.
+- Front-end web developer, [Classum](https://classum.com), February, 2019 - December, 2019.
 
 
 #### Publications
