@@ -57,6 +57,18 @@
   educations: [
     "(2020) B.S. in Mathematical Science. KAIST (expected).",
   ]
+  
+- id: sunghyuk.kay
+  name: Sunghyuk Kay
+  korean_name: 계성혁
+  status: present
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: lkaybob
+  google_scholar: https://scholar.google.co.kr/citations?user=rizoj1IAAAAJ
+  educations: [
+    "(2019) B.S. in Computer Engineering. Ajou University.",
+  ]
 
 - id: jihoon.hyun
   name: Jihoon Hyun
