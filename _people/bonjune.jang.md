@@ -13,6 +13,8 @@ I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.
 
 I am interested in Functional Programing and Computer Systems, believing cool languages can change the world: ([Rust](https://github.com/rust-lang/rust) and [F#](https://github.com/dotnet/fsharp))
 
+Currently at KAIST GoN, Student Hacking Team.
+
 
 {% include person_contact.md person_id=person_id %}
 
