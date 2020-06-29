@@ -167,6 +167,20 @@
   educations: [
     "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
+  
+- id: jeongwoon.choi
+  name: Jeong Woon Choi 
+  status: present 
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: isyangban
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+    "(2017) Exchange Student, Georgia Institute of Technology.",
+  ]
+  experiences: [
+    "(2018-2020) Server Programmer, Vonvon Inc & Cinamon Games."
+  ]
 
 - id: Suh-Ryung Kim
   name: Suh-Ryung Kim
