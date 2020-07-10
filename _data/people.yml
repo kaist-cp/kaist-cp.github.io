@@ -157,6 +157,17 @@
     "(2022) B.S. in Computer Science and Mathematics. KAIST (expected).",
   ]
 
+- id: jungwoo.kim
+  name: Jungwoo Kim
+  korean_name: 김정우
+  status: present 
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: kimjungwow
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
 - id: Suh-Ryung Kim
   name: Suh-Ryung Kim
   status: external
