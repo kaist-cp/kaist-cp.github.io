@@ -92,6 +92,18 @@
     "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
 
+- id: siwon.kim
+  name: Siwon Kim
+  korean_name: 김시원
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: coolofficials
+  educations: [
+    "(2021) B.S. in Mathematical Science & Computer Science. KAIST (expected).",
+  ]
+
+
 - id: jaemin.choi
   kaist_id: jaemin.choi98
   name: Jaemin Choi
