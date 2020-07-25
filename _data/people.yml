@@ -180,6 +180,18 @@
     "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
 
+
+- id: chaeeun.hwang
+  name: Chaeeun Hwang
+  korean_name: 황채은
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: navy3690
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
 - id: Suh-Ryung Kim
   name: Suh-Ryung Kim
   status: external
@@ -349,3 +361,4 @@
   name: Sue Moon
   status: external
   website: http://an.kaist.ac.kr/~sbmoon/
+
