@@ -14,5 +14,3 @@ I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.
 
 
 {% include person_education.md person_id=person_id %}
-
-{% include person_experience.md person_id=person_id %}
