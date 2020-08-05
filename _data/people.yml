@@ -191,7 +191,6 @@
     "(2017) Exchange Student, Georgia Institute of Technology.",
   ]
 
-
 - id: chaeeun.hwang
   name: Chaeeun Hwang
   korean_name: 황채은
@@ -201,6 +200,17 @@
   github: navy3690
   educations: [
     "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: sungsoo.han
+  name: Sungsoo Han
+  korean_name: 한성수
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: lomotos10
+  educations: [
+    "(2021) B.S. in Electrical Engineering & Computer Science. KAIST (expected).",
   ]
 
 - id: Suh-Ryung Kim
