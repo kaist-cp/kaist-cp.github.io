@@ -126,6 +126,17 @@
     "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
 
+- id: soowon.jeong
+  name: Soowon Jeong
+  korean_name: 정수원
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: jeong0982
+  educations: [
+    "(2023) B.S. in Computer Science. KAIST (expected).",
+  ]
+
 - id: jihoon.hyun
   name: Jihoon Hyun
   korean_name: 현지훈
