@@ -192,6 +192,18 @@
     "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
 
+- id: taewoo.kim
+  kaist_id: taewoo.kim99
+  name: Taewoo Kim
+  korean_name: 김태우
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: travis1829
+  educations: [
+    "(2024) B.S. in Computer Science. KAIST (expected).",
+  ]
+
 - id: jiseung.hong
   name: Jiseung Hong
   korean_name: 홍지승
