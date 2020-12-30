@@ -183,6 +183,20 @@
     "(2021) Computer Science & Engineering. Chungnam National University (expected).",
   ]
 
+
+- id: janggun.lee
+  kaist_id:janggun.lee
+  name: Janggun Lee
+  korean_name: 이장건
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: Lee-Janggun
+  educations: [
+    "(2021) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
+  ]
+
+
 - id: chaeeun.hwang
   name: Chaeeun Hwang
   korean_name: 황채은
