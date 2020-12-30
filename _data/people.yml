@@ -183,9 +183,7 @@
     "(2021) Computer Science & Engineering. Chungnam National University (expected).",
   ]
 
-
 - id: janggun.lee
-  kaist_id:janggun.lee
   name: Janggun Lee
   korean_name: 이장건
   status: present
@@ -195,7 +193,6 @@
   educations: [
     "(2021) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
   ]
-
 
 - id: chaeeun.hwang
   name: Chaeeun Hwang
