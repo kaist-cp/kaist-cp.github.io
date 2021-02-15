@@ -460,3 +460,14 @@
   educations: [
     "(2020) B.S. in Mathematical Science. KAIST (expected).",
   ]
+  
+- id: haroon.ahmed
+  name: Haroon Ahmed
+  status: present
+  title: PhD Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: haroonrl
+  educations: [
+      "(2017) M.E Electrical Engineering. Southeast University, China.",
+      "(2012) B.S Electronics Engineering. Sarhad University, Pakistan.",
+      ]

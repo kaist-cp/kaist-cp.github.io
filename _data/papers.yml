@@ -223,3 +223,13 @@
   year: 2012
 
   copy_publisher: https://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i1p54
+ 
+- title: "A 974GOPS/W Multi-level Parallel Architecture for Binary Weight Network Acceleration"
+  authors: [
+    "haroon.ahmed",
+  ]
+  venue: "IEEE International Symposium on Circuits and Systems (ISCAS), Florence, Italy"
+  venue_short: "ISCAS"
+  year: 2018
+
+  copy_publisher: https://ieeexplore.ieee.org/document/8351247
