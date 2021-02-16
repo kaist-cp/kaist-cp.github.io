@@ -35,7 +35,7 @@ I am a **PhD Student at [Concurrency and Parallelism Laboratory]({{ site.url }})
   
 #### Publications
 
-{% include publications.md author_id=person_id submitted=true %}
+{% include publications.md author_id=person_id %}
 
 #### Awards and Honors
 

@@ -226,6 +226,10 @@
  
 - title: "A 974GOPS/W Multi-level Parallel Architecture for Binary Weight Network Acceleration"
   authors: [
+    "Rongdi Sun",
+    "Peilin Liu",
+    "Cecil Accetti",
+    "Abid A. Naqvi",
     "haroon.ahmed",
   ]
   venue: "IEEE International Symposium on Circuits and Systems (ISCAS), Florence, Italy"
