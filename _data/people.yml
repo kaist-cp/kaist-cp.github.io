@@ -171,6 +171,17 @@
     "(2021) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
   ]
 
+- id: minseong.jang
+  name: Minseong Jang
+  korean_name: 장민성
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: minseongg
+  educations: [
+    "(2021) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
+  ]
+
 - id: sunghyuk.kay
   name: Sunghyuk Kay
   korean_name: 계성혁
