@@ -182,6 +182,16 @@
     "(2021) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
   ]
 
+- id: yeonwoo.nam
+  name: Yeonwo Nam
+  korean_name: 남연우
+  status: present
+  title: Undergraduate Student
+  github: 9921ska
+  educations: [
+    "(2022) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
+  ]
+
 - id: sunghyuk.kay
   name: Sunghyuk Kay
   korean_name: 계성혁
