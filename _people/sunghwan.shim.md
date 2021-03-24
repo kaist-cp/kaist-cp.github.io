@@ -7,7 +7,7 @@ excerpt: "Sunghwan Shim's website"
 {%- assign person_id = "sunghwan.shim" %}
 {%- assign person = site.data.people | where:"id",person_id | sample %}
 
-I am an **Undergraduate Student at [Hanyang university,  Departnmet of Computer Science & Enginerring](http://cs.hanyang.ac.kr)**. I am interested in verifying concurrent and parallel systems. To study and research more about this, I joined [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr).
+I am a **Master Student at [Concurrency and Parallelism Laboratory]({{ site.url }})**. I am interested in verifying concurrent and parallel systems.
 
 
 {% include person_contact.md person_id=person_id %}
