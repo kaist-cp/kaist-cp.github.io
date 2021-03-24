@@ -9,7 +9,7 @@ excerpt: "Jaehwang Jung's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl}}/assets/jaehwang.jung.jpg" alt="{{ person.name }}">
 
-I am a **graduate student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**.
+I am a **PhD student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**.
 I am mainly interested in verifying programs using concurrent separation logic.
 Specifically, I'm focusing on concurrent programs with manual memory management.
 
