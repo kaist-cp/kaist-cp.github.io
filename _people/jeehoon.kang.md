@@ -18,8 +18,7 @@ significantly reduce power consumption, thereby serving as the basis for the upc
 data processing.
 
 **I am recruiting motivated students of all levels interested in designing and verifying concurrent
-and parallel systems.** See the [research]({{ site.baseurl }}{% link research.md %}) page for more
-details on the research we are doing. If interested, please send me an email.
+and parallel systems.** See the [main page]({{ site.baseurl }}) and the [helpdesk](https://github.com/kaist-cp/helpdesk/#advice-for-potential-lab-members) for more details. Most crucially: **contact Jeehoon NOW**.
 
 
 {% include person_contact.md person_id=person_id %}
@@ -30,7 +29,7 @@ details on the research we are doing. If interested, please send me an email.
 
 #### Experiences
 
-- Chief Scientist and Founder, Furiosa AI, September, 2017 - current.
+- Chief R&D Officer and Founder, Furiosa AI, September, 2017 - current.
 
   (topic: deep learning accelerator and its compiler)
 
@@ -45,14 +44,15 @@ details on the research we are doing. If interested, please send me an email.
 
 #### Publications
 
-See the [research]({{ site.baseurl }}{% link research.md %}) and [publications]({{ site.baseurl }}{%
+See the [research]({{ site.baseurl }}{% link index.md %}#research) and [publications]({{ site.baseurl }}{%
 link publications.md %}) pages.
 
 
 #### Lectures
 
+- [CS230: System Programming (2021 Spring)](https://github.com/kaist-cp/cs230)
 - [CS420: Compiler Design (2020 Spring)](https://github.com/kaist-cp/cs420)
-- [CS492: Design and Analysis of Concurrent Programs (2019 Fall)](https://github.com/kaist-cp/cs492-concur)
+- [CS492: Design and Analysis of Concurrent Programs (2020 Fall, 2019 Fall)](https://github.com/kaist-cp/cs492-concur)
 - [CS500: Design and Analysis of Algorithm (2019 Spring)](https://github.com/kaist-cp/cs500-2019s)
 
 
@@ -60,9 +60,12 @@ link publications.md %}) pages.
 
 - Program Committee Chairs: [2021 POPL AEC](https://popl21.sigplan.org/), [2020 POPL AEC](https://popl20.sigplan.org/)
 
-- Program Committee Members: [2021 POPL](https://popl21.sigplan.org/), [2020 ICSE NIER](https://conf.researchr.org/home/icse-2020), [2020 ICSE
+- Program Committee Members: 2022 ESOP, [2021 HOPE](https://icfp21.sigplan.org/home/hope-2021), [2021 POPL](https://popl21.sigplan.org/), 2021 OOPSLA, [2020 ICSE NIER](https://conf.researchr.org/home/icse-2020), [2020 ICSE
   SEIP](https://conf.researchr.org/home/icse-2020), [2020 ASPLOS
   (ERC)](https://asplos-conference.org/), [2019 POPL AEC](https://popl19.sigplan.org/)
+  
+- Others: [2022 POPL](https://popl22.sigplan.org/series/POPL) Student Research Competition Co-Chair, 2022 CGO Proceedings Chair, [2021 CGO](https://conf.researchr.org/home/cgo-2021) Proceedings Chair, [2020 ICSE](https://conf.researchr.org/home/icse-2020) Virtualization Technology Chair
+
 
 #### Open Source Contributions
 
@@ -88,11 +91,11 @@ link publications.md %}) pages.
 
 - Distinguished Paper Award, ACM SIGPLAN conference on Programming Languages Design and Implementation (PLDI), 2017.
 
-- 23rd place, ACM International Collegiate Programming Contest (ICPC) World Finals, 2008.
+<!-- - 23rd place, ACM International Collegiate Programming Contest (ICPC) World Finals, 2008. -->
 
-- Champion, ACM International Collegiate Programming Contest (ICPC) Regional Contest---Seoul, 2007.
+<!-- - Champion, ACM International Collegiate Programming Contest (ICPC) Regional Contest---Seoul, 2007. -->
 
-- Gold Medal, International Olympiad in Informatics (IOI), 2005.
+<!-- - Gold Medal, International Olympiad in Informatics (IOI), 2005. -->
 
 #### Calendar
 

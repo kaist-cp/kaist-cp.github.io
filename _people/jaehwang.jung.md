@@ -9,10 +9,9 @@ excerpt: "Jaehwang Jung's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl}}/assets/jaehwang.jung.jpg" alt="{{ person.name }}">
 
-I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.ac.kr)**.
-I'm interested in various topics including but not limited to verification of
-concurrent and distributed systems, tools for easier concurrent programming,
-and type systems.
+I am a **graduate student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**.
+I am mainly interested in verifying programs using concurrent separation logic.
+Specifically, I'm focusing on concurrent programs with manual memory management.
 
 {% include person_contact.md person_id=person_id %}
 

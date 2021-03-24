@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic@main
 
 # File excludes
 exclude:
@@ -39,12 +39,18 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Jeehoon Kang
-  url: /jeehoon.kang/
+- title: News
+  url: /#news
+- title: People
+  url: /#people
 - title: Research
-  url: /research/
+  url: /#research
 - title: Publications
-  url: /publications/
+  url: /#publications
+- title: Lectures
+  url: /#lectures
+- title: Contact
+  url: /#contact
 
 # Footer nav
 navigation_footer:

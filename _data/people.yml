@@ -16,7 +16,7 @@
   name: Kyeongmin Cho
   korean_name: 조경민
   status: present
-  title: Master Student
+  title: PhD Student
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: drzix
   google_scholar: https://scholar.google.co.kr/citations?user=KJd2XC4AAAAJ
@@ -40,28 +40,162 @@
   name: Jaehwang Jung
   korean_name: 정재황
   status: present
-  title: Master Student
+  title: PhD Student
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: tomtomjhj
   educations: [
     "(2020) B.S. in Computer Science. KAIST (expected).",
   ]
 
-- id: dongwoo.oh
-  name: Dongwoo Oh
-  korean_name: 오동우
+- id: jaemin.choi
+  kaist_id: jaemin.choi98
+  name: Jaemin Choi
+  korean_name: 최재민
   status: present
   title: Master Student
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
-  github: garamceleste
+  github: jh05013
   educations: [
-    "(2020) B.S. in Mathematical Science. KAIST (expected).",
+    "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
-  
+
+- id: sungsoo.han
+  name: Sungsoo Han
+  korean_name: 한성수
+  status: present
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: lomotos10
+  educations: [
+    "(2021) B.S. in Electrical Engineering & Computer Science. KAIST (expected).",
+  ]
+
+- id: sunghwan.shim
+  name: Sunghwan Shim
+  korean_name: 심성환
+  status: present
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: gabriel4256
+  educations: [
+    "(2021) B.S. in Computer Science & Engineering. Hanyang university (expected)."
+  ]
+
+- id: haroon.ahmed
+  name: Haroon Ahmed
+  status: present
+  title: PhD Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: haroonrl
+  educations: [
+    "(2017) M.E in Electrical Engineering. Southeast University, China.",
+    "(2012) B.S in Electronics Engineering. Sarhad University, Pakistan.",
+      ]
+
+- id: seoyun.son
+  name: Seoyun Son
+  korean_name: 손서윤
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: anemoneflower
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: siwon.kim
+  name: Siwon Kim
+  korean_name: 김시원
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: coolofficials
+  educations: [
+    "(2021) B.S. in Mathematical Science & Computer Science. KAIST (expected).",
+  ]
+
+- id: taewoo.an
+  name: Taewoo An
+  korean_name: 안태우
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: codingskynet
+  educations: [
+    "(2023) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: jaemin.yu
+  name: Jaemin Yu
+  korean_name: 유재민
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: planetarynebula
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: taewoo.kim
+  kaist_id: taewoo.kim99
+  name: Taewoo Kim
+  korean_name: 김태우
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: travis1829
+  educations: [
+    "(2024) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: seungmin.jeon
+  kaist_id: seungmin.jeon
+  name: Seungmin Jeon
+  korean_name: 전승민
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: zzz845zz
+  educations: [
+    "(2021) Computer Science & Engineering. Chungnam National University (expected).",
+  ]
+
+- id: janggun.lee
+  name: Janggun Lee
+  korean_name: 이장건
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: Lee-Janggun
+  educations: [
+    "(2021) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
+  ]
+
+- id: minseong.jang
+  name: Minseong Jang
+  korean_name: 장민성
+  status: present
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: minseongg
+  educations: [
+    "(2021) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
+  ]
+
+- id: yeonwoo.nam
+  name: Yeonwoo Nam
+  korean_name: 남연우
+  status: present
+  title: Undergraduate Student
+  github: Yeonwoo-Nam
+  educations: [
+    "(2022) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
+  ]
+
 - id: sunghyuk.kay
   name: Sunghyuk Kay
   korean_name: 계성혁
-  status: present
+  status: alumni
   title: Master Student
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: lkaybob
@@ -70,10 +204,43 @@
     "(2019) B.S. in Computer Engineering. Ajou University.",
   ]
 
+- id: jungwoo.kim
+  name: Jungwoo Kim
+  korean_name: 김정우
+  status: alumni
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: kimjungwow
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: soowon.jeong
+  name: Soowon Jeong
+  korean_name: 정수원
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: jeong0982
+  educations: [
+    "(2023) B.S. in Computer Science. KAIST (expected).",
+  ]
+
+- id: chaeeun.hwang
+  name: Chaeeun Hwang
+  korean_name: 황채은
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: navy3690
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+  ]
+
 - id: jihoon.hyun
   name: Jihoon Hyun
   korean_name: 현지훈
-  status: present
+  status: external
   title: Undergraduate Student
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: qawbecrdtey
@@ -84,34 +251,12 @@
 - id: hyunsu.kim
   kaist_id: hyunsu.kim00
   name: Hyunsu Kim
-  status: present
+  status: external
   title: Undergraduate Student
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: hyunsukimsokcho
   educations: [
     "(2020) B.S. in Computer Science. KAIST (expected).",
-  ]
-
-- id: seoyun.son
-  name: Seoyun Son
-  korean_name: 손서윤
-  status: present
-  title: Undergraduate Student
-  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
-  github: anemoneflower
-  educations: [
-    "(2021) B.S. in Computer Science. KAIST (expected).",
-  ]
-
-- id: jaemin.choi
-  name: Jaemin Choi
-  korean_name: 최재민
-  status: present
-  title: Undergraduate Student
-  place: Rm. 4432, Bldg. E3-1, KAIST (+82-42-350-7878)
-  github: jh05013
-  educations: [
-    "(2021) B.S. in Computer Science. KAIST (expected).",
   ]
 
 - id: jiseung.hong
@@ -143,6 +288,28 @@
   github: qvntm
   educations: [
     "(2020) B.S. in Computer Science and Mathematics. KAIST (expected).",
+  ]
+
+- id: bonjune.jang
+  name: Bongjun Jang
+  korean_name: 장봉준
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: bonjune
+  educations: [
+    "(2022) B.S. in Computer Science and Mathematics. KAIST (expected).",
+  ]
+
+- id: jeongwoon.choi
+  name: Jeong Woon Choi
+  status: external
+  title: Undergraduate Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: isyangban
+  educations: [
+    "(2021) B.S. in Computer Science. KAIST (expected).",
+    "(2017) Exchange Student, Georgia Institute of Technology.",
   ]
 
 - id: Suh-Ryung Kim
@@ -314,3 +481,34 @@
   name: Sue Moon
   status: external
   website: http://an.kaist.ac.kr/~sbmoon/
+
+- id: dongwoo.oh
+  name: Dongwoo Oh
+  korean_name: 오동우
+  status: external
+  title: Master Student
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: garamceleste
+  educations: [
+    "(2020) B.S. in Mathematical Science. KAIST (expected).",
+  ]
+  
+- id: Rongdi Sun
+  name: Rongdi Sun
+  status: external
+  website: http://nls.sjtu.edu.cn
+  
+- id: Peilin Liu
+  name: Peilin Liu
+  status: external
+  website: http://nls.sjtu.edu.cn
+  
+- id: Cecil Accetti
+  name: Cecil Accetti
+  status: external
+  website: http://nls.sjtu.edu.cn
+  
+- id: Abid A. Naqvi
+  name: Abid A. Naqvi
+  status: external
+  website: http://nls.sjtu.edu.cn

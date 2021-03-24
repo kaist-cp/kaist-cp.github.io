@@ -6,7 +6,6 @@
   venue: "ACM SIGPLAN conference on Programming Languages Design and Implementation"
   venue_short: "PLDI"
   year: 2020
-  status: "accepted"
 
   tags: [
     "gc",
@@ -79,6 +78,8 @@
   venue: "Workshop on Programming Languages and Operating Systems"
   venue_short: "PLOS"
   year: 2019
+
+  copy_publisher: https://dl.acm.org/doi/10.1145/3365137.3365403
 
 - title: "Promising-ARM/RISC-V: a simpler and faster operational concurrency model"
   authors: [
@@ -222,3 +223,17 @@
   year: 2012
 
   copy_publisher: https://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i1p54
+ 
+- title: "A 974GOPS/W Multi-level Parallel Architecture for Binary Weight Network Acceleration"
+  authors: [
+    "Rongdi Sun",
+    "Peilin Liu",
+    "Cecil Accetti",
+    "Abid A. Naqvi",
+    "haroon.ahmed",
+  ]
+  venue: "IEEE International Symposium on Circuits and Systems (ISCAS), Florence, Italy"
+  venue_short: "ISCAS"
+  year: 2018
+
+  copy_publisher: https://ieeexplore.ieee.org/document/8351247
