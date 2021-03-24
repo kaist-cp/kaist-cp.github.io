@@ -13,8 +13,11 @@ excerpt: "Where theory meets practice"
 Welcome to Concurrency and Parallelism Laboratory at [KAIST](https://www.kaist.ac.kr) [School of
 Computing](https://cs.kaist.ac.kr). **We are actively recruiting motivated students of all levels
 interested in designing and verifying concurrent and parallel systems.** If interested, please visit
-a [recruit page](https://www.facebook.com/groups/kaistcomputerscience/permalink/2970178453084074){:target="_blank"}
-and send an email to {{ pi_url }}.
+a [recruit
+page](https://www.facebook.com/groups/kaistcomputerscience/permalink/2970178453084074){:target="_blank"}
+and send an email to {{ pi_url }}. **If you're interested in joining as a graduate student, please
+read [an instruction](https://github.com/kaist-cp/helpdesk/#advice-for-potential-lab-members) and
+contact Jeehoon NOW.**
 
 In the era of big data, artificial intelligence, and internet of things, humankind requires more and
 more computing resources, but they are becoming more and more scarce due to the slowing of Dennard
@@ -64,6 +67,7 @@ verify** such abstraction layers so that the users can use the them safely and f
 {% endif %}
 {% endfor %}
 
+<!-- TODO: alumni? -->
 
 
 ## Research
@@ -120,7 +124,7 @@ programming environment at the same time. Specifically, we are working on the fo
 <div id="lectures"></div>
 
 - [CS420: Compiler Design (2020 Spring)](https://github.com/kaist-cp/cs420)
-- [CS492: Design and Analysis of Concurrent Programs (2019 Fall)](https://github.com/kaist-cp/cs492-concur)
+- [CS492: Design and Analysis of Concurrent Programs (2020 Fall, 2019 Fall)](https://github.com/kaist-cp/cs492-concur)
 - [CS500: Design and Analysis of Algorithm (2019 Spring)](https://github.com/kaist-cp/cs500-2019s)
 
 
