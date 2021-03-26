@@ -1,3 +1,48 @@
+- title: "Revamping Hardware Persistency Models: View-based and Axiomatic Persistency Models for Intel-x86 and Armv8"
+  authors: [
+    "kyeongmin.cho",
+    "Sung-Hwan Lee",
+    "Azalea Raad",
+    "jeehoon.kang",
+  ]
+  venue: "ACM SIGPLAN conference on Programming Languages Design and Implementation"
+  venue_short: "PLDI"
+  year: 2021
+
+  tags: [
+    "pmem",
+  ]
+
+  # TODO: Remove this after final notification
+  status: "conditionally accepted"
+
+  # TODO: (1) Add final draft, (2) Fix artifact listing code at `publications.md`
+  # copy_local: TBA
+  # artifact_local: [
+  #   "https://github.com/kaist-cp/view-hw",
+  #   "https://github.com/kaist-cp/rmem-persistency",
+  # ]
+
+  abstract: "Non-volatile memory (NVM) is a cutting-edge storage technology that promises the
+             performance of DRAM with the durability of SSD. Recent work has proposed several
+             <em>persistency models</em> for mainstream architectures such as Intel-x86 and Armv8,
+             describing the order in which writes are propagated to NVM. However, these models have
+             several limitations; most notably, they either lack operational models or do not support
+             persistent synchronization patterns.
+             <br />
+             <br />
+             We close this gap by revamping the existing persistency models. First, inspired by the
+             recent work on promising semantics, we propose a <em>unified operational style</em> for
+             describing  persistency using <em>views</em>, and develop view-based operational
+             persistency models for Intel-x86 and Armv8, thus presenting the <em>first</em> operational
+             model for Armv8 persistency. Next, we propose a <em>unified axiomatic style</em> for
+             describing hardware persistency, allowing us to recast and repair the existing axiomatic
+             models of Intel-x86 and Armv8 persistency. We prove that our axiomatic models are equivalent
+             to the authoritative semantics reviewed by Intel and Arm engineers. We further prove that
+             each axiomatic hardware persistency model is equivalent to its operational counterpart.
+             Finally, we develop a persistent model checking algorithm and tool, and use it to verify
+             several representative examples."
+
 - title: "A Marriage of Pointer- and Epoch-Based Reclamation"
   authors: [
     "jeehoon.kang",
