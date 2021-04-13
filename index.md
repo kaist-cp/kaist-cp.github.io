@@ -90,7 +90,7 @@ programming environment at the same time. Specifically, we are working on the fo
   + Clean-slate operating systems for Android VMs (with Google)
   + Parallel networking systems
   + [Concurrent garbage collector]({{ site.baseurl }}{% link _projects/gc.md %})
-  + Transactional systems based on [persistent memory](https://docs.pmem.io/persistent-memory/)
+  + Transactional systems based on [persistent memory]({{ site.baseurl }}{% link _projects/pmem.md %})
 
   <br />
 
