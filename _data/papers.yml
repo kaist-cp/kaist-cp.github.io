@@ -1,4 +1,4 @@
-- title: "Revamping Hardware Persistency Models: View-based and Axiomatic Persistency Models for Intel-x86 and Armv8"
+- title: "Revamping Hardware Persistency Models: View-Based and Axiomatic Persistency Models for Intel-x86 and Armv8"
   authors: [
     "kyeongmin.cho",
     "Sung-Hwan Lee",
@@ -13,15 +13,12 @@
     "pmem",
   ]
 
-  # TODO: Remove this after final notification
-  status: "conditionally accepted"
-
-  # TODO: (1) Add final draft, (2) Fix artifact listing code at `publications.md`
-  # copy_local: TBA
-  # artifact_local: [
-  #   "https://github.com/kaist-cp/view-hw",
-  #   "https://github.com/kaist-cp/rmem-persistency",
-  # ]
+  copy_local: https://drive.google.com/file/d/1C3j8mlfcyuFUW16J-BSiZ6h_aJdq_s5d/view?usp=sharing
+  artifact_local:
+  - name: Coq proof
+    url: https://github.com/kaist-cp/view-hw
+  - name: Model checker
+    url: https://github.com/kaist-cp/rmem-persistency
 
   abstract: "Non-volatile memory (NVM) is a cutting-edge storage technology that promises the
              performance of DRAM with the durability of SSD. Recent work has proposed several
@@ -56,7 +53,9 @@
     "gc",
   ]
   copy_local: https://drive.google.com/file/d/1PlTzqi1U9bhEJRBXc8VzegFUsO57Cydh
-  artifact_local: https://github.com/kaist-cp/pebr-benchmark
+  artifact_local:
+  - name: Benchmark
+    url: https://github.com/kaist-cp/pebr-benchmark
 
   abstract: "All pointer-based nonblocking concurrent data structures should deal with the problem
              of <em>safe memory reclamation</em>: before reclaiming a memory block, a thread should
@@ -268,7 +267,7 @@
   year: 2012
 
   copy_publisher: https://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i1p54
- 
+
 # - title: "A 974GOPS/W Multi-level Parallel Architecture for Binary Weight Network Acceleration"
 #   authors: [
 #     "Rongdi Sun",

@@ -24,7 +24,11 @@
   {{ paper.venue }}{% if paper.status %} ({{ paper.status }}){% endif %}.
 
   {% if paper.copy_local %}\[[paper]({{ paper.copy_local }})\]{% endif %} ​
-  {% if paper.artifact_local %}\[[artifact]({{ paper.artifact_local }})\]{% endif %} ​
+  {% if paper.artifact_local %} ​
+    {% for artifact in paper.artifact_local %} ​
+      \[[artifact \({{ artifact.name }}\)]({{ artifact.url }})\] ​
+    {% endfor %} ​
+  {% endif %} ​
   {% if paper.website %}\[[project page]({{ paper.website }})\]{% endif %} ​
   {% if paper.copy_publisher %}\[[publisher's page]({{ paper.copy_publisher }})\]{% endif %} ​
 
