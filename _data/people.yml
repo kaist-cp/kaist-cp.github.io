@@ -162,11 +162,12 @@
   status: alumni
   role: M.S.
   job: LG Electronics
-  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  place: Bldg W4, LG Science Park
   github: lkaybob
   google_scholar: https://scholar.google.co.kr/citations?user=rizoj1IAAAAJ
   educations: [
     "(2019) B.S. in Computer Engineering. Ajou University.",
+    "(2021) M.S. in Software Graduate Program. KAIST"
   ]
 
 - id: jungwoo.kim

@@ -10,9 +10,11 @@ excerpt: "Sunghyuk Kay's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/sunghyuk.kay.jpg" alt="{{ person.name }}">
 
-I am a **Masters Student at [KAIST Concurrency and Parallelsim Laboratory]({{ site.baseurl }}/)** under advise of [Prof. Jeehoon Kang]({{ site.baseurl}}/jeehoon.kang), and also pursuing my degree at [KAIST Software Graduate Program](http://software.kaist.ac.kr/). 
+I am an associate data engieer at LG Electronics. Prior to my current position, I was a **Masters Student at [KAIST Concurrency and Parallelsim Laboratory]({{ site.baseurl }}/)** under advise of [Prof. Jeehoon Kang]({{ site.baseurl}}/jeehoon.kang), and also pursed my degree at [KAIST Software Graduate Program](http://software.kaist.ac.kr/). 
 
-My research interest is desinging parallel network system. Especially, I'm trying to find a way to make computer network work in asynchronous way, so that it could be suitable for parallel systems.
+I've researched on parallel network system, finding a way to make computer network work in asynchronous way, leveraging FPGA's parallelism.
+
+(FYI. This page is no longer updated since June 2021. For updated information about me, please refer to [my personal webpage](https://blog.lkaybob.pe.kr/about/).)
 
 
 {% include person_contact.md person_id=person_id %}
@@ -23,6 +25,7 @@ My research interest is desinging parallel network system. Especially, I'm tryin
 
 #### Experiences
 
+- Associate Data Engineer, LG Electronics, Feb. 2021 - Current
 - Sever Engineer Intern, Double H Inc., Jan. 2018 - Jun. 2018.
 
 
