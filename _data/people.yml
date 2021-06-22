@@ -531,3 +531,13 @@
   name: Azalea Raad
   status: external
   website: https://www.soundandcomplete.org/
+
+- id: jungin.rhee
+  name: Jung In Rhee
+  korean_name: 이정인
+  status: present
+  role: Undergraduate Student
+  github: jirheee
+  educations: [
+    "(2022) B.S. in Computer Science. KAIST (expected).",
+  ]
