@@ -29,20 +29,13 @@ My research interests are in constructing the AI serving systems using heterogen
 #### Experiences
 
 - Intern, FuriosaAI, July, 2020 - August, 2020.
-
   - Designing next-generation AI serving system using NPU
-
 - Intern, KakaoBrain, July, 2019 - August, 2019.
-
-  - torchlars: A [LARS(Layer-wise Adaptive Rate Scaling)](https://arxiv.org/abs/1708.03888) implementation in PyTorch, [github](https://github.com/kakaobrain/torchlars), [blog post](https://www.kakaobrain.com/blog/113)
-
+  - torchlars: A [LARS(Layer-wise Adaptive Rate Scaling)](https://arxiv.org/abs/1708.03888) implementation in PyTorch, [[github](https://github.com/kakaobrain/torchlars)], [[blog post](https://www.kakaobrain.com/blog/113)]
 - Intern, DeepBio, January, 2018 - February, 2018.
-
-  - [CAMELYON17](https://camelyon17.grand-challenge.org/) project: Designing the deep learning model for detection and classification of breast cancer metastases, [github](https://github.com/cmpark0126/CamelyonTask)
-
+  - [CAMELYON17](https://camelyon17.grand-challenge.org/) project: Designing the deep learning model for detection and classification of breast cancer metastases, [[github](https://github.com/cmpark0126/CamelyonTask)]
 - Research Assistant, Deep Learning Lab (director: Prof. Injung Kim), Handong Global University, March, 2017 – June, 2019.
-
-  - WICWIU: A deep learning library in C/C++, [github], [thesis]
+  - WICWIU: A deep learning framework in C/C++, [[github](https://github.com/WICWIU/WICWIU)], [[thesis](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503145&language=ko_KR)]
 
 
 #### Awards and Honors
