@@ -8,11 +8,11 @@ excerpt: "Chunmyong Park's website"
 {%- assign person_id = "chunmyong.park" %}
 {%- assign person = site.data.people | where:"id",person_id | sample %}
 
-<img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/chunmyong.park.jpg" alt="{{ person.name }}">
+<img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/chunmyong.park.jpeg" alt="{{ person.name }}">
 
-I am a **Master Student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**. I am delighted to be advised by [Prof. Jeehoon Kang]({{ site.baseurl }}{% include person_url.md person_id="jeehoon.kang" %}).
+I am a **Ph.D. Student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**. I am delighted to be advised by [Prof. Jeehoon Kang]({{ site.baseurl }}{% include person_url.md person_id="jeehoon.kang" %}).
 
-My research interests are in designing and verifying concurrent and parallel systems. In particular, I want to solve various real-world problems associated with these topics. I believe these studies will help advance the areas such as Deep Learning where performance issues are critical.
+My research interests are in constructing the AI serving systems using heterogeneous processors such as CPU, GPU, NPU, etc. In particular, I am focused on designing resource managers and schedulers for the system to better serve real-world workloads. I am currently working with [FuriosaAI](https://www.furiosa.ai/) for this research. If you want to know more about this research topic, please refer to this [link](https://cp.kaist.ac.kr/ai-system).
 
 
 {% include person_contact.md person_id=person_id %}
@@ -21,32 +21,28 @@ My research interests are in designing and verifying concurrent and parallel sys
 {% include person_education.md person_id=person_id %}
 
 
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
+
+
 #### Experiences
+
+- Intern, FuriosaAI, July, 2020 - August, 2020.
+
+  - Designing next-generation AI serving system using NPU
 
 - Intern, KakaoBrain, July, 2019 - August, 2019.
 
-  (topic: Implement python library using PyTorch)
+  - torchlars: A [LARS(Layer-wise Adaptive Rate Scaling)](https://arxiv.org/abs/1708.03888) implementation in PyTorch, [github](https://github.com/kakaobrain/torchlars), [blog post](https://www.kakaobrain.com/blog/113)
 
 - Intern, DeepBio, January, 2018 - February, 2018.
 
-  (topic: Research deep learning issues)
+  - [CAMELYON17](https://camelyon17.grand-challenge.org/) project: Designing the deep learning model for detection and classification of breast cancer metastases, [github](https://github.com/cmpark0126/CamelyonTask)
 
-- Research Assistant, Deep Learning Lab (DLLAB), Handong Global University, March, 2017 – June, 2019.
+- Research Assistant, Deep Learning Lab (director: Prof. Injung Kim), Handong Global University, March, 2017 – June, 2019.
 
-  (director: Prof. Injung Kim)
-
-  (topic: Implement deep learning library using C/C++)
-
-
-#### Publications
-
-The full list of the publications can be found at [Google Scholar]({{ person.google_scholar }}); more information at my [Curriculum Vitae](https://cmpark0126.github.io/assets/docs/PARKCHUNMYONG_cv.pdf).
-
-
-#### Open Source Contributions
-
-- [WICWIU](https://github.com/WICWIU/WICWIU): a deep learning library in C/C++
-- [torchlars](https://github.com/kakaobrain/torchlars): A LARS implementation in PyTorch.
+  - WICWIU: A deep learning library in C/C++, [github], [thesis]
 
 
 #### Awards and Honors

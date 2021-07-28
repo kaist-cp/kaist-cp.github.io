@@ -31,13 +31,14 @@
   name: Chunmyong Park
   korean_name: 박천명
   status: present
-  role: Master Student
-  image: assets/images/people/chunmyong.park.jpg
+  role: PhD Student
+  image: assets/images/people/chunmyong.park.jpeg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: cmpark0126
   google_scholar: https://scholar.google.co.kr/citations?user=8ez_CnwAAAAJ&hl
   educations: [
-    "(2019) B.S. in School of Computer Science & Electrical Engineering. Handong Global University.",
+    "(2021) M.S. in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang](https://cp.kaist.ac.kr/jeehoon.kang/)).",
+    "(2019) B.S. in Computer Science and Electrical Engineering. Handong Global University.",
   ]
 
 - id: jaehwang.jung
