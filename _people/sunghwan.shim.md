@@ -10,7 +10,7 @@ excerpt: "Sunghwan Shim's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/sunghwan.shim.jpg" alt="{{ person.name }}">
 
-I am a **Master Student at [Concurrency and Parallelism Laboratory]({{ site.url }})**. I am interested in verifying concurrent and parallel systems.
+I am a **Master Student at [Concurrency and Parallelism Laboratory]({{ site.url }})**. I am interested in developing concurrent design principles and building practical concurrent systems. Specifically, I am currently working on [AI serving systems]({{ site.baseurl }}{% link _projects/ai-system.md %}) and [Operating systems in Rust](https://github.com/kaist-cp/rv6) project.
 
 
 {% include person_contact.md person_id=person_id %}
