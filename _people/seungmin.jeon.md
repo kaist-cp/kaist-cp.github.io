@@ -10,8 +10,9 @@ excerpt: "Seungmin Jeon's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/seungmin.jeon.jpg" alt="{{ person.name }}">
 
-I am an **Undergraduate Student at [Chungnam National University, Department of Computer Science and Enginerring](http://cse.cnu.ac.kr/)**.
-I'm interested in designing and verifying concurrent and parallel systems for efficient data processing. To study **how to research these topics**, I joined [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr).
+I am an **Undergraduate Student at [Chungnam National University, Department of Computer Science and Engineering](http://cse.cnu.ac.kr/)**. I joined [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr) because I'm interested in designing concurrent and parallel systems and studying how to research these topics. 
+
+Thankfully, I am working on designing a practical [persistent memory library](https://cp.kaist.ac.kr/pmem), one of my interesting topics.
 
 {% include person_contact.md person_id=person_id %}
 
