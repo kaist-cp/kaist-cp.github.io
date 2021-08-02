@@ -8,7 +8,9 @@ excerpt: "Jaemin Choi's website"
 {%- assign person_id = "jaemin.choi" %}
 {%- assign person = site.data.people | where:"id",person_id | sample %}
 
-I am a **Master Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**. I am studying formal verification of concurrent systems.
+<img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/jaemin.choi.jpg" alt="{{ person.name }}">
+
+I am a **Master Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**. I am studying formal verification of concurrent systems - in particular, I'm working on formal verification of the Rust type checker.
 
 {% include person_contact.md person_id=person_id %}
 
