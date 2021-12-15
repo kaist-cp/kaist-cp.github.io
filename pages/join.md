@@ -178,7 +178,7 @@ So we want to keep the number of rules as low as possible.
 ##### Google Workspace
 
 - Create the `{firstname}.{lastname}@kaist.ac.kr` email account.
-    + You can add "additional account" in mail.kaist.ac.kr > Settings > My Account > Additional account.
+    + You can add "virtual mail" in mail.kaist.ac.kr > Upper right-hand side gear > Settings > Mail > Virtual Mail > Add Mail.
     + If it is already taken, add a number at the end of the id, e.g., `{firstname}.{lastname}07@kaist.ac.kr`
 - Send your email address to Jeehoon.
 - You'll get the `{firstname}.{lastname}@cp.kaist.ac.kr` Google Workspace account.
