@@ -263,7 +263,7 @@ So we want to keep the number of rules as low as possible.
            In "Nimf" > "Hotkeys for rotating input method engines", add "Hangul".
 - **Server** (Ubuntu 20.04)
     * SSH connection: `ssh -p<port> <google-workspace-id>@cp-service.kaist.ac.kr`
-        + Ports: 11003 (recommended for file sharing), 11010 (recommended for heavy computation)
+        + Port: 11010 (recommended for heavy computation)
         + Password: `<google-workspace-password>`
         + Example: `ssh -p11010 jeehoon.kang@cp-service.kaist.ac.kr`
         + SSH configuration: see above. **Do it properly.**
