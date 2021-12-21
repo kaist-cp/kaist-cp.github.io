@@ -14,6 +14,18 @@
     "(2013) B.S. in Computer Science and Engineering and Mathematical Science. Seoul National University.",
   ]
 
+- id: shuangshuang.zhao
+  name: Shuangshuang Zhao
+  status: present
+  role: PhD Student
+  image: assets/images/people/shuangshuang.zhao.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: poppindouble
+  educations: [
+    "(2015) Master of Applied Computer Science. Concordia University.",
+    "(2013) B.S. in Computer Science and Technology. Central South University of Forestry and Technology.",
+  ]
+
 - id: kyeongmin.cho
   name: Kyeongmin Cho
   korean_name: 조경민
