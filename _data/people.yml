@@ -142,6 +142,19 @@
     "(2022) B.S. in Mathematical Sciences & Computer Science. KAIST (expected).",
   ]
 
+- id: junsoo.lee
+  kaist_id: junsoo.lee97
+  name: Junsoo Lee
+  korean_name: 이준수
+  status: present
+  role: Undergraduate Student
+  image: assets/images/people/junsoo.lee.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: junsooo
+  educations: [
+    "(2023) B.S. in Computer Science. KAIST (expected).",
+  ]
+
 - id: jaemin.yu
   name: Jaemin Yu
   korean_name: 유재민
