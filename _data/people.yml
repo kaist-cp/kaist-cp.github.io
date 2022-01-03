@@ -155,6 +155,19 @@
     "(2023) B.S. in Computer Science. KAIST (expected).",
   ]
 
+- id: yeji.han
+  kaist_id: yejihan
+  name: Yeji Han
+  korean_name: 한예지
+  status: present
+  role: Undergraduate Student
+  image: assets/images/people/yeji.han.jpeg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: yj-han
+  educations: [
+    "(2023) B.S. in Computer Science. KAIST (expected).",
+  ]
+
 - id: jaemin.yu
   name: Jaemin Yu
   korean_name: 유재민
