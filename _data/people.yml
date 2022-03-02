@@ -36,6 +36,7 @@
   github: drzix
   google_scholar: https://scholar.google.co.kr/citations?user=KJd2XC4AAAAJ
   educations: [
+    "(2019 - Current) Ph.D. student in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang](https://cp.kaist.ac.kr/jeehoon.kang/)).",
     "(2019) B.S. in Computer Science and Engineering and B.A. in Philosophy. Inha University.",
   ]
 
@@ -560,22 +561,22 @@
   educations: [
     "(2020) B.S. in Mathematical Science. KAIST (expected).",
   ]
-  
+
 - id: Rongdi Sun
   name: Rongdi Sun
   status: external
   website: http://nls.sjtu.edu.cn
-  
+
 - id: Peilin Liu
   name: Peilin Liu
   status: external
   website: http://nls.sjtu.edu.cn
-  
+
 - id: Cecil Accetti
   name: Cecil Accetti
   status: external
   website: http://nls.sjtu.edu.cn
-  
+
 - id: Abid A. Naqvi
   name: Abid A. Naqvi
   status: external
