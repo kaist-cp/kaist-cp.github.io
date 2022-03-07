@@ -1,3 +1,21 @@
+- title: "Practical Detectability for Persistent Lock-Free Data Structures"
+  authors: [
+    "kyeongmin.cho",
+    "seungmin.jeon",
+    "jeehoon.kang",
+  ]
+  venue: "Submitted"
+  year: 2022
+  tags: [
+    "memento",
+  ]
+  copy_local: https://drive.google.com/file/d/1QU58FU-B_dxsMqzmNK6rCBzwwUcKtpLx/view?usp=sharing
+  artifact_local:
+  - name: Development
+    url: https://drive.google.com/file/d/1-lHiijtMuuEcj11g65Bm72vdOmlBu7vx/view?usp=sharing
+  - name: Evaluation results
+    url: https://drive.google.com/file/d/1CC5rrLHcynNWTrZKcJcN9azoasqbOSQv/view?usp=sharing
+
 - title: "Simuliris: A Separation Logic Framework for Verifying Concurrent Program Optimizations"
   authors: [
     "Lennard Gäher",
