@@ -30,9 +30,48 @@ per-thread checkpoints in PM. As a case study, we implement lockfree and combini
 outperform (and perform comparably) the state-of-the-art DSs with
 (and without, respectively) detectability.
 
-### For VLDB 2022 reviewers
+### For VLDB 2022 Reviewers
 
 Here is an artifact zip file for your reivew: **[artifact.zip](https://drive.google.com/file/d/1S2sZW4Mf27wYHiGFD0y8KnWb4s6-q7IZ/view?usp=sharing)**
+
+### Evaluaton Results
+
+#### Queue
+
+![queue-legend1](assets/images/paper/memento/queue-legend1.svg)
+![queue-legend2](assets/images/paper/memento/queue-legend2.svg)
+
+##### Multi-threaded Throughput of enqueue-dequeue pair
+![queue-throughput-pair](assets/images/paper/memento/queue-throughput-pair.svg)
+
+##### Multi-threaded Throughput of enqueue 20%, dequeue 80%
+![queue-throughput-prob20](assets/images/paper/memento/queue-throughput-prob20.svg)
+
+##### Multi-threaded Throughput of enqueue 50%, dequeue 50%
+![queue-throughput-prob50](assets/images/paper/memento/queue-throughput-prob50.svg)
+
+##### Multi-threaded Throughput of enqueue 80%, dequeue 20%
+![queue-throughput-prob80](assets/images/paper/memento/queue-throughput-prob80.svg)
+
+
+#### Hash Table
+
+![hash-legend1](assets/images/paper/memento/hash-legend1.svg)
+![hash-legend2](assets/images/paper/memento/hash-legend2.svg)
+
+##### Tail Latency of Hash Tables with 32 Threads
+![hash-latency](assets/images/paper/memento/hash-latency-multi32-uniform.svg)
+
+##### Single-threaded Throughput of Hash Tables
+![hash-single](assets/images/paper/memento/hash-throughput-single.svg)
+
+##### Multi-threaded Throughput of Hash Tables for Self Similar Distribution with Factor 0.2
+![hash-self1](assets/images/paper/memento/hash-throughput-multi-self-similar-0.2_1.svg)
+![hash-self2](assets/images/paper/memento/hash-throughput-multi-self-similar-0.2_2.svg)
+
+##### Multi-threaded Throughput of Hash Tables for Uniform Distribution
+![hash-uniform1](assets/images/paper/memento/hash-throughput-multi-uniform1.svg)
+![hash-uniform2](assets/images/paper/memento/hash-throughput-multi-uniform2.svg)
 
 ### Publications
 
