@@ -36,6 +36,9 @@ Here is an artifact zip file for your reivew: **[artifact.zip](https://drive.goo
 
 ### Evaluaton Results
 
+We perform a performance evaluation of our programming framework for detectable queues and hash tables in PM.
+We refer to our [paper](https://drive.google.com/file/d/1QU58FU-B_dxsMqzmNK6rCBzwwUcKtpLx/view?usp=sharing) for detailed discussion about results.
+
 #### Queue
 
 ![queue-legend1](assets/images/paper/memento/queue-legend1.svg)
