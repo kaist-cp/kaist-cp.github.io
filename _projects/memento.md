@@ -65,6 +65,9 @@ We refer to our [paper](https://drive.google.com/file/d/1QU58FU-B_dxsMqzmNK6rCBz
 ##### Tail Latency of Hash Tables with 32 Threads
 ![hash-latency](assets/images/paper/memento/hash-latency-multi32-uniform.svg)
 
+##### Load factor of Hash Tables
+![hash-loadfactor](assets/images/paper/memento/hash-load_factor-single-uniform.svg)
+
 ##### Single-threaded Throughput of Hash Tables
 ![hash-single](assets/images/paper/memento/hash-throughput-single.svg)
 
