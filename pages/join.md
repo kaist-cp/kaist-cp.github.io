@@ -152,7 +152,7 @@ So we want to keep the number of rules as low as possible.
   Try to summarize what you want to say (e.g., "Your idea doesn't work in general") and then substantiate your argument with evidences (e.g., "for instance, let's look at this code: ...").
 
 - **Don't be angry or grumpy when the discussion is getting hotter.**
-  Research and any other creative works require different opinions clashing with each other, or in other word,s *hot discussions*.
+  Research and any other creative works require different opinions clashing with each other, or in other words, *hot discussions*.
   But they don't need to be involved with emotions clashing with each other.
   I know it's difficult to separate them out, but let's try to do that.
 
