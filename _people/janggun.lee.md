@@ -10,7 +10,11 @@ excerpt: "Janggun Lee's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/janggun.lee.jpg" alt="{{ person.name }}">
 
-I am a **Undergraduate Student at KAIST [department of Mathematical Sciences](https://mathsci.kaist.ac.kr) and [School of Computing](https://cs.kaist.ac.kr)**. To learn and research about formal verification of concurrent systems, I gladly joined the [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr). Currently I am working on formal verification of [Rust](https://www.rust-lang.org).
+I am a **Master Student at KAIST [School of Computing](https://cs.kaist.ac.kr)** at [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr). 
+
+My interest lies in formal verfication of real-world systems using [Coq](https://coq.inria.fr/).
+
+Currently, I am researching on verification of concurrent data structures on weak memory.
 
 
 {% include person_contact.md person_id=person_id %}
