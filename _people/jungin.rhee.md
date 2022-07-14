@@ -8,7 +8,9 @@ excerpt: "Jung In Rhee's website"
 {%- assign person_id = "jungin.rhee" %}
 {%- assign person = site.data.people | where:"id",person_id | sample %}
 
-I am a **Undergraduate Student at KAIST [School of Computing](https://cs.kaist.ac.kr)**. I am interested in designing concurrent and parallel systems. Currently I am studying [Rust](https://www.rust-lang.org).
+<img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/jungin.rhee.jpg" alt="{{ person.name }}">
+
+I am a **Undergraduate Student at KAIST [School of Computing](https://cs.kaist.ac.kr)**. I am currently working on [FPGA high-performance networking systems]({{ site.baseurl }}{% link _projects/fpga.md %}).
 
 
 {% include person_contact.md person_id=person_id %}
