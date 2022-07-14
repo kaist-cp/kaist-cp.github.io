@@ -156,6 +156,18 @@
     "(2023) B.S. in Computer Science. KAIST (expected).",
   ]
   
+- id: woojin.lee
+  name: Woojin Lee
+  korean_name: 이우진
+  status: present
+  role: Undergraduate Student
+  image: assets/images/people/woojin.lee.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: woojinnn
+  educations: [
+    "(2023) B.S. in Computer Science & Electrical Engineering & Industrial and Systems Engineering. KAIST (expected).",
+  ]
+
 - id: jungin.rhee
   name: Jung In Rhee
   korean_name: 이정인
