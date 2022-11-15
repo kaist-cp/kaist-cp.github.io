@@ -19,6 +19,10 @@ I am an **Masters Student at Concurrency and Parallelism Laboratory, [KAIST Scho
 {% include person_education.md person_id=person_id %}
 
 
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
+
 #### Experiences
 
 - Intern, 파인디지털, September, 2018 - February, 2019
