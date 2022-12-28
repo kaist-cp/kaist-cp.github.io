@@ -229,6 +229,15 @@
   github: buttercrab
   educations: ["(2027) B.S. in Computer Science. KAIST (expected)."]
 
+- id: murad.bashirov
+  name: Murad Bashirov
+  status: present
+  role: Undergraduate Student
+  image: assets/images/people/murad.bashirov.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: m-spitfire
+  educations: ["(2025) B.S. in Computer Science. KAIST (expected)."]
+
 - id: doehyun.baek
   name: Doehyun Baek
   korean_name: 백도현
