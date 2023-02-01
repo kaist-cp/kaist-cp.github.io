@@ -26,6 +26,9 @@ My primary research interests lie in the area of concurrency and programming lan
 
 {% include publications.md author_id=person_id submitted=true %}
 
+#### Professional Activities
+
+- [2022 POPL AEC](https://popl22.sigplan.org/) member
 
 #### Experiences
 
@@ -51,11 +54,13 @@ My primary research interests lie in the area of concurrency and programming lan
 
 #### Awards and Honors
 
+- NAVER PhD Fellowship Award, NAVER Corp., 2021.
+
 - Grand Prize, Capstone Project Competition, Dept. of Computer Science and Engineering, Inha University, 2018.
 
 - 14th place, ACM International Collegiate Programming Contest (ICPC) Regional Contest---Daejeon, 2014.
 
-- Kiwoom Securities Financial Scholarship, Kiwoom Securities Co., Ltd, Feb. 2014 - Feb. 2015.
+- Kiwoom Securities Financial Scholarship, Kiwoom Securities Corp., 2014 - 2015.
 
 #### Calendar
 
