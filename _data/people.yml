@@ -198,6 +198,17 @@
   github: Jaewookim08
   educations: ["(2024) B.S. in Computer Science. KAIST (expected)."]
 
+- id: jeonghyeon.kim
+  kaist_id: jeonghyeon.kim
+  name: Jeonghyeon Kim
+  korean_name: 김정현
+  status: present
+  role: Undergraduate Student
+  image: assets/images/people/jeonghyeon.kim.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: powergee
+  educations: ["(2022) B.S. in Computer Science. University of Seoul."]
+
 - id: chunmyong.park
   name: Chunmyong Park
   korean_name: 박천명
