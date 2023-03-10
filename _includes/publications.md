@@ -9,6 +9,10 @@
   {% capture link %}{% include person_link.md person_id=author_id %}{% endcapture %}
   {% assign link = link | strip %}
 
+  {% if include.author_id == author_id %}
+    {% assign link = "**" | append: link | append: "**" %}
+  {% endif %}
+
   {% if paper.cofirst_authors contains forloop.index %}
     {% assign link = link | append: "\*" %}
   {% endif %}
