@@ -13,7 +13,7 @@ excerpt: "Kyeongmin Cho's website"
 I am a **Ph.D. Student at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**. I
 am very fortunate to be advised by [Prof. Jeehoon Kang]({{ site.baseurl }}{% include person_url.md person_id="jeehoon.kang" %}). Prior to KAIST, I received my B.S. in CSE and B.A. in Philosophy from Inha University.
 
-My primary research interests lie in the area of concurrency and programming languages. In particular, I am interested in developing design patterns for coordinating concurrent accesses, and using the design patterns, building practical concurrent systems.
+My primary research interests lie in the area of concurrency, persistency and programming languages. In particular, I am interested in developing and verifying design patterns for coordinating concurrent accesses, and using the design patterns, building practical concurrent systems.
 
 
 {% include person_contact.md person_id=person_id %}
@@ -28,29 +28,13 @@ My primary research interests lie in the area of concurrency and programming lan
 
 #### Professional Activities
 
-- [2022 POPL AEC](https://popl22.sigplan.org/) member
+- [2022 POPL AEC](https://popl22.sigplan.org/committee/POPL-2022-artifact-evaluation-artifact-evaluation-comittee) member
 
 #### Experiences
 
 - Director, Marketit Inc., July, 2016 - August, 2017.
 
-  (topic: full-stack web app, API server)
-
 - Mentee, Software Maestro, June, 2015 – June, 2016.
-
-  (topic: dynamic event notifier on Linux)
-
-
-#### Teaching
-
-- Basic programming skills and methods of work automation using Python.
-
-  @ Fastcampus Inc., Dec. 2015 - Jun. 2016.
-
-- Giving a basic algorithm lecture and managing the Teenager Hacking Contest.
-
-  @ Hansei Cyber Security High School, Sep. 2015.
-
 
 #### Awards and Honors
 
