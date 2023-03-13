@@ -41,6 +41,15 @@ Thankfully, I am working on designing a practical [persistent memory library](ht
 
 {% include publications.md author_id=person_id submitted=true %}
 
-* Jaemin Kang, **Seungmin Jeon**, Hyungshin Kim. Pre-processing Method for Bird Sound Classifier. Proceedings of 2020 IEMEK Symposium on Embedded Technology, July, 2020, pp. 40-41. (written in Korean)
+- <span style="font-size: 110%; font-weight: bold;">Pre-processing Method for Bird Sound Classifier.</span>
+  <br />
+  Jaemin Kang, **Seungmin Jeon**, Hyungshin Kim.
+  <br />
+  Proceedings of 2020 IEMEK Symposium on Embedded Technology, July, 2020, pp. 40-41. (written in Korean)
 
-* **Seungmin Jeon**, Woojin Joe, Hyongshik Kim. A Malware Variants Detection Method Based on Malicious API Call Sequence, Proceedings of Korea Software Congress 2019, December, 2019 , pp. 1630-1632 (written in Korean)
+- <span style="font-size: 110%; font-weight: bold;">A Malware Variants Detection Method Based on Malicious API Call Sequence.</span>
+  <br />
+  **Seungmin Jeon**, Woojin Joe, Hyongshik Kim.
+  <br />
+  Proceedings of Korea Software Congress 2019, December, 2019, pp. 1630-1632 (written in Korean)
+
