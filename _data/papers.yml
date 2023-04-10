@@ -10,7 +10,7 @@
   year: 2023
   status: "accepted"
 
-- title: "A General Framework for Detectable, Persistent, Lock-Free Data Structures"
+- title: "Memento: A Framework for Detectable Recoverability in Persistent Memory"
   authors: [
     "kyeongmin.cho",
     "seungmin.jeon",
@@ -25,38 +25,33 @@
     "pmem",
     "memento",
   ]
-  # copy_local: https://drive.google.com/file/d/1QU58FU-B_dxsMqzmNK6rCBzwwUcKtpLx/view?usp=sharing
+  copy_local: https://drive.google.com/file/d/1LaXKo1w3fHF2-ra7EA5d24ucCx1kRE3Q/view?usp=share_link
   # artifact_local:
-  # - name: Development
-  #   url: https://drive.google.com/file/d/1-lHiijtMuuEcj11g65Bm72vdOmlBu7vx/view?usp=sharing
-  # - name: Evaluation results
-  #   url: https://drive.google.com/file/d/1CC5rrLHcynNWTrZKcJcN9azoasqbOSQv/view?usp=sharing
+  # - name: Zenodo
+  #   url: https://doi.org/10.5281/zenodo.7704663
+  # - name: Github
+  #   url: https://github.com/kaist-cp/memento
   website: pmem
 
-  abstract: "Persistent memory (PM) is an emerging class of storage technology that combines the
-             performance of DRAM with the durability of SSD, offering the best of both worlds. This
-             had led to a surge of research in persistent programming, inspiring research on
-             persistent objects in PM with fine-grained concurrency control. Among such objects,
-             persistent, lock-free data structures (DSs) are particularly interesting thanks to their
-             performance and scalability. One of the most widely used correctness criteria for
-             persistent lock-free DSs is <em>detectable recoverability</em>, ensuring both thread safety (for
-             correctness in non-crashing concurrent executions) and crash consistency (for
-             correctness in crashing executions). However, the existing approaches to designing
-             detectably recoverable lock-free DSs are either limited to simple algorithms or suffer
-             from high runtime overheads.
-             <br />
-             <br />
-             To address these shortcoming, we present a <em>general</em> framework for <em>efficiently</em>
-             implementing detectably recoverable lock-free DSs. To ensure general applicability to
-             various DSs, we provide primitive operations such as checkpoint and compare-and-swap,
-             and composition rules for complex operations. To ensure high performance, we employ a
-             recovery strategy based on timestamps that requires fewer flushes to PM than the
-             existing approaches. We formally prove that our construction ensures detectable
-             recoverability in the presence of crashes. To showcase our framework, we implement a
-             detectably recoverable lock-free stack, list, queue, and hash table, and a combining
-             queue that detectably recovers from random crashes in stress tests and performs
-             comparably to existing hand-tuned persistent DSs with and without detectable
-             recoverability."
+  abstract: "Persistent memory (PM) is an emerging class of storage technology that combines the performance
+            of DRAM with the durability of SSD, offering the best of both worlds. This had led to a surge of
+            research on persistent objects in PM. Among such persistent objects, concurrent data structures (DSs)
+            are particularly interesting thanks to their performance and scalability. One of the most widely used
+            correctness criteria for persistent concurrent DSs is <em>detectable recoverability</em>, ensuring both
+            thread safety (for correctness in non-crashing concurrent executions) and crash consistency (for
+            correctness in crashing executions). However, the existing approaches to designing detectably recoverable
+            concurrent DSs are either limited to simple algorithms or suffer from high runtime overheads.
+            <br />
+            <br />
+            We present Memento: a <em>general</em> and <em>high-performance</em> programming framework for detectably
+            recoverable concurrent DSs in PM. To ensure general applicability to various DSs, Memento supports
+            primitive operations such as checkpoint and compare-and-swap and their composition with control constructs.
+            To ensure high performance, Memento employs a timestamp-based recovery strategy that requires fewer writes
+            and flushes to PM than the existing approaches. We formally prove that Memento ensures detectable
+            recoverability in the presence of crashes. To showcase Memento, we implement a lock-free stack, list, queue,
+            and hash table, and a combining queue that detectably recovers from random crashes in stress tests and
+            performs comparably to existing hand-tuned persistent DSs with and without detectable recoverability.
+            "
 
 - title: "ShakeFlow: Functional Hardware Description with Latency-Insensitive Interface Combinators"
   authors: [
