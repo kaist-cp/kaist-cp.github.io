@@ -21,6 +21,11 @@ Currently, I am interested in designing and verifying concurrent systems such as
 {% include person_education.md person_id=person_id %}
 
 
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
+
+
 #### Experiences
 
 - Research Intern, Intelligent Robot Lab, University of Seoul, December 2020 - June 2021.
