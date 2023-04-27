@@ -8,7 +8,10 @@
   venue: "ACM Symposium on Parallelism in Algorithms and Architectures"
   venue_short: "SPAA"
   year: 2023
-  status: "accepted"
+  tags: [
+    "gc",
+  ]
+  website: gc
 
 - title: "Memento: A Framework for Detectable Recoverability in Persistent Memory"
   authors: [
@@ -20,7 +23,6 @@
   venue: "ACM SIGPLAN conference on Programming Languages Design and Implementation"
   venue_short: "PLDI"
   year: 2023
-  status: "accepted"
   tags: [
     "pmem",
     "memento",
