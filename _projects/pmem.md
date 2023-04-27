@@ -4,6 +4,8 @@ title: Persistent Memory
 description: The emerging class of storages between DRAM and SSD
 background: /assets/images/kaist.jpg
 permalink: /pmem
+redirect_from:
+  - /memento/
 ---
 
 

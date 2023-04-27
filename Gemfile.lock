@@ -260,6 +260,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed
+  jekyll-redirect-from
   jekyll-remote-theme
   jekyll-sitemap
   minima (~> 2.0)
@@ -267,4 +268,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.3.25
+   2.3.8
