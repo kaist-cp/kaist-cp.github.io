@@ -26,11 +26,9 @@
     "memento",
   ]
   copy_local: https://drive.google.com/file/d/1LaXKo1w3fHF2-ra7EA5d24ucCx1kRE3Q/view?usp=share_link
-  # artifact_local:
-  # - name: Zenodo
-  #   url: https://doi.org/10.5281/zenodo.7704663
-  # - name: Github
-  #   url: https://github.com/kaist-cp/memento
+  artifact_local:
+  - name: Development
+    url: https://github.com/kaist-cp/memento
   website: pmem
 
   abstract: "Persistent memory (PM) is an emerging class of storage technology that combines the performance
