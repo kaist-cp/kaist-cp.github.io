@@ -12,6 +12,37 @@
     "gc",
   ]
   website: gc
+  copy_local: https://drive.google.com/file/d/1t2SkkT2sV2bky3sLrhkBEahAzmwarjwz/view?usp=sharing
+  copy_publisher: https://dl.acm.org/doi/10.1145/3558481.3591102
+  artifact_local:
+  - name: Development
+    url: https://github.com/kaist-cp/hp-plus
+  - name: Benchmark
+    url: https://github.com/kaist-cp/smr-benchmark
+
+  abstract:
+    "Hazard pointers is a popular semi-manual memory reclamation scheme for
+    concurrent data structures, where each accessing thread announces the
+    protection of each object to access and validates that the pointer is not
+    already freed. Validation is typically done by <em>over-approximating</em>
+    unreachability: if an object seems to be unreachable from the root of the
+    data structure, the protecting thread decides not to access the object as
+    it might have been freed. However, many efficient data structures are
+    incompatible with validation by over-approximation as their <em>optimistic
+    traversal</em> strategy intentionally ignores the warning of unreachability
+    to achieve better performance.
+    <br />
+    We design HP++, an extension to
+    hazard pointers that supports optimistic traversal. The key idea is
+    <em>under-approximating</em> unreachability during validation and
+    <em>patching up</em> the potentially unsafe accesses arising from
+    false-negatives. Thanks to optimistic traversal, data structures with HP++
+    outperform the same-purpose data structures with HP under contention while
+    consuming a similar amount of memory."
+
+  changelog:
+  - "Figure 8: Optimized HP++ SkipList."
+  - "Figure 9: Fixed Y-axis labels."
 
 - title: "Memento: A Framework for Detectable Recoverability in Persistent Memory"
   authors: [
@@ -159,10 +190,11 @@
   tags: [
     "gc",
   ]
+  website: gc
   copy_local: https://drive.google.com/file/d/1PlTzqi1U9bhEJRBXc8VzegFUsO57Cydh
   artifact_local:
   - name: Benchmark
-    url: https://github.com/kaist-cp/pebr-benchmark
+    url: https://github.com/kaist-cp/smr-benchmark
 
   abstract: "All pointer-based nonblocking concurrent data structures should deal with the problem
              of <em>safe memory reclamation</em>: before reclaiming a memory block, a thread should
