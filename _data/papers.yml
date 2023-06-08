@@ -42,7 +42,6 @@
             correctness in crashing executions). However, the existing approaches to designing detectably recoverable
             concurrent DSs are either limited to simple algorithms or suffer from high runtime overheads.
             <br />
-            <br />
             We present Memento: a <em>general</em> and <em>high-performance</em> programming framework for detectably
             recoverable concurrent DSs in PM. To ensure general applicability to various DSs, Memento supports
             primitive operations such as checkpoint and compare-and-swap and their composition with control constructs.
@@ -136,7 +135,6 @@
              several limitations; most notably, they either lack operational models or do not support
              persistent synchronization patterns.
              <br />
-             <br />
              We close this gap by revamping the existing persistency models. First, inspired by the
              recent work on promising semantics, we propose a <em>unified operational style</em> for
              describing  persistency using <em>views</em>, and develop view-based operational
@@ -177,7 +175,6 @@
              overhead; <em>(iv) self-contained</em>: it neither relies on special hardware/OS
              supports nor intrusively affects execution environments; and <em>(v) widely
              applicable</em>: it supports many data structures.
-             <br />
              <br />
              We introduce PEBR, which we believe is the first scheme that satisfies all the
              properties above.  PEBR is inspired by Snowflake's hybrid design of pointer- and
