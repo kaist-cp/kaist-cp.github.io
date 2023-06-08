@@ -15,6 +15,7 @@ p.abstract-paragraph + p.abstract-paragraph {
 {% if include.tag == null or paper.tags contains include.tag %}
 {% if include.submitted or paper.submitted == null %}
 
+<!-- Set authors -->
 {% assign author_links = "" | split: "" %}
 {% for author_id in paper.authors %}
 
@@ -32,6 +33,24 @@ p.abstract-paragraph + p.abstract-paragraph {
   {% assign author_links = author_links | push: link %}
 {% endfor %}
 
+<!-- Set paper copies -->
+{% assign paper_links = "" | split: "" %}
+{% if paper.doi %}
+  {% assign link = "[doi](https://doi.org/" | append: paper.doi | append: ")" %}
+  {% assign paper_links = paper_links | push: link %}
+{% endif %}
+{% if paper.copy_local %}
+  {% assign link = "[local](" | append: paper.copy_local | append: ")" %}
+  {% assign paper_links = paper_links | push: link %}
+{% endif %}
+
+<!-- Set artifacts -->
+{% assign artifact_links = "" | split: "" %}
+{% for artifact in paper.artifact_local %}
+  {% assign link = "[" | append: artifact.name | append: "](" | append: artifact.url | append: ")" %}
+  {% assign artifact_links = artifact_links | push: link %}
+{% endfor %}
+
 - <span style="font-size: 110%; font-weight: bold;">({% if paper.venue_short %}{{ paper.venue_short }} {% endif %}{{ paper.year }})</span>
   <span style="font-size: 110%; font-weight: bold;">{{ paper.title }}.</span>
   <br />
@@ -39,14 +58,9 @@ p.abstract-paragraph + p.abstract-paragraph {
   <br />
   {{ paper.venue }}{% if paper.status %} ({{ paper.status }}){% endif %}.
   <br />
-  {% if paper.copy_local %}\[[paper]({{ paper.copy_local }})\]{% endif %} ​
-  {% if paper.artifact_local %} ​
-    {% for artifact in paper.artifact_local %} ​
-      \[[artifact \({{ artifact.name }}\)]({{ artifact.url }})\] ​
-    {% endfor %} ​
-  {% endif %} ​
-  {% if include.website and paper.website %}\[[project page](/{{ paper.website }})\]{% endif %} ​
-  {% if paper.copy_publisher %}\[[publisher's page]({{ paper.copy_publisher }})\]{% endif %} ​
+  {% if paper_links.size > 0 %}\[Paper: {{ paper_links | join: " | " }}\] {% endif %} ​
+  {% if artifact_links.size > 0 %}\[Artifact: {{ artifact_links | join: " | " }}\] {% endif %} ​
+  {% if include.website and paper.website %}\[[Project page](/{{ paper.website }})\]{% endif %} ​
   <br />
   {% if include.full and paper.abstract %}
   <div style="margin: 20px; font-size: 0.9em; line-height: 1.44em;">
