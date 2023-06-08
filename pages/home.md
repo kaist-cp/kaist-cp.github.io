@@ -75,7 +75,7 @@ Specifically, we are working on *design* and *verification* of concurrent and pa
 ### Publications
 <div id="publications"></div>
 
-{% include publications.md %}
+{% include publications.md website=true %}
 
 
 ## People

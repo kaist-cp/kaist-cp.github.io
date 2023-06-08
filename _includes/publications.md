@@ -33,7 +33,7 @@
       \[[artifact \({{ artifact.name }}\)]({{ artifact.url }})\] ​
     {% endfor %} ​
   {% endif %} ​
-  {% if paper.website %}\[[project page](/{{ paper.website }})\]{% endif %} ​
+  {% if include.website and paper.website %}\[[project page](/{{ paper.website }})\]{% endif %} ​
   {% if paper.copy_publisher %}\[[publisher's page]({{ paper.copy_publisher }})\]{% endif %} ​
   <br />
   {% if include.abstract and paper.abstract %}
