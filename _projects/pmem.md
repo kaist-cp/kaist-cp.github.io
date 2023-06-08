@@ -24,4 +24,4 @@ exploit its potentiality to build innovative transational systems!
 
 ### Publications
 
-{% include publications.md tag="pmem" submitted=true abstract=true %}
+{% include publications.md tag="pmem" submitted=true full=true %}

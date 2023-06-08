@@ -23,4 +23,4 @@ interesting way, producing the off-the-shelf solution for safe memory reclamatio
 
 ### Publications
 
-{% include publications.md tag="gc" submitted=true abstract=true %}
+{% include publications.md tag="gc" submitted=true full=true %}

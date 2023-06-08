@@ -48,11 +48,21 @@ p.abstract-paragraph + p.abstract-paragraph {
   {% if include.website and paper.website %}\[[project page](/{{ paper.website }})\]{% endif %} ​
   {% if paper.copy_publisher %}\[[publisher's page]({{ paper.copy_publisher }})\]{% endif %} ​
   <br />
-  {% if include.abstract and paper.abstract %}
+  {% if include.full and paper.abstract %}
   <div style="margin: 20px; font-size: 0.9em; line-height: 1.44em;">
     <b>Abstract</b>
     {% assign paragraphs = paper.abstract | newline_to_br | strip_newlines | split: '<br />' %}
     {% for paragraph in paragraphs %}<p class="abstract-paragraph">{{ paragraph }}</p>{% endfor %}
+  </div>
+  {% endif %}
+  {% if include.full and paper.changelog %}
+  <div style="margin: 20px; font-size: 0.9em; line-height: 1.44em;">
+    <b>Changelog/Errata</b>
+    <ul>
+    {% for change in paper.changelog %}
+      <li> {{ change }} </li>
+    {% endfor %}
+    </ul>
   </div>
   {% endif %}
 {% endif %}
