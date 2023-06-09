@@ -11,6 +11,7 @@
   tags: [
     "gc",
   ]
+  doi: 10.1145/3558481.3591102
   website: gc
   copy_local: https://drive.google.com/file/d/1t2SkkT2sV2bky3sLrhkBEahAzmwarjwz/view?usp=sharing
   copy_publisher: https://dl.acm.org/doi/10.1145/3558481.3591102
@@ -58,6 +59,7 @@
     "pmem",
     "memento",
   ]
+  doi: 10.1145/3591232
   copy_local: https://drive.google.com/file/d/1LaXKo1w3fHF2-ra7EA5d24ucCx1kRE3Q/view?usp=share_link
   artifact_local:
   - name: Development
@@ -93,7 +95,7 @@
   venue: "The International Conference on Architectural Support for Programming Languages and Operating Systems"
   venue_short: "ASPLOS"
   year: 2023
-
+  doi: 10.1145/3575693.3575701
   copy_local: https://drive.google.com/file/d/17kBZxz7XgfQ4DjBwW0GvD-e0DHwK1N85/view?usp=sharing
   artifact_local:
   - name: Development
@@ -112,7 +114,7 @@
   venue: "ACM SIGPLAN conference on Programming Languages Design and Implementation"
   venue_short: "PLDI"
   year: 2022
-
+  doi: 10.1145/3519939.3523451
   copy_local: https://plv.mpi-sws.org/compass/paper.pdf
   website: https://plv.mpi-sws.org/compass/
 
@@ -131,7 +133,7 @@
   venue_short: "POPL"
   year: 2022
   status: "**Distinguished Paper Award**"
-
+  doi: 10.1145/3498689
   copy_local: https://iris-project.org/pdfs/2022-popl-simuliris.pdf
   copy_publisher: https://dl.acm.org/doi/abs/10.1145/3498689
   website: https://iris-project.org/
@@ -150,7 +152,7 @@
   tags: [
     "pmem",
   ]
-
+  doi: 10.1145/3453483.3454027
   copy_local: https://drive.google.com/file/d/1C3j8mlfcyuFUW16J-BSiZ6h_aJdq_s5d/view?usp=sharing
   artifact_local:
   - name: Coq proof
@@ -191,6 +193,8 @@
     "gc",
   ]
   website: gc
+
+  doi: 10.1145/3385412.3385978
   copy_local: https://drive.google.com/file/d/1PlTzqi1U9bhEJRBXc8VzegFUsO57Cydh
   artifact_local:
   - name: Benchmark
@@ -231,7 +235,7 @@
   venue: "ACM SIGPLAN Symposium on Principles of Programming Languages"
   venue_short: "POPL"
   year: 2020
-
+  doi: 10.1145/3371091
   copy_local: https://sf.snu.ac.kr/publications/compcertm.pdf
   website: https://sf.snu.ac.kr/compcertm/
 
@@ -245,7 +249,7 @@
   venue: "ACM SIGPLAN Symposium on Principles of Programming Languages"
   venue_short: "POPL"
   year: 2020
-
+  doi: 10.1145/3371109
   copy_local: https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf
   website: https://plv.mpi-sws.org/rustbelt/stacked-borrows/
 
@@ -261,6 +265,7 @@
   venue_short: "PLOS"
   year: 2019
 
+  doi: 10.1145/3365137.3365403
   copy_publisher: https://dl.acm.org/doi/10.1145/3365137.3365403
 
 - title: "Promising-ARM/RISC-V: a simpler and faster operational concurrency model"
@@ -275,6 +280,7 @@
   venue_short: "PLDI"
   year: 2019
 
+  doi: 10.1145/3314221.3314624
   copy_local: https://sf.snu.ac.kr/publications/promising-arm-riscv.pdf
   website: https://sf.snu.ac.kr/promising-arm-riscv/
 
@@ -308,6 +314,7 @@
   venue_short: "PLDI"
   year: 2018
 
+  doi: 10.1145/3192366.3192377
   copy_local: https://sf.snu.ac.kr/publications/crellvm.pdf
   copy_publisher: https://dl.acm.org/citation.cfm?id=3192377
   website: https://sf.snu.ac.kr/crellvm/
@@ -325,6 +332,7 @@
   year: 2017
   status: "**Distinguished Paper Award**"
 
+  doi: 10.1145/3140587.3062352
   copy_local: https://plv.mpi-sws.org/scfix/paper.pdf
   copy_publisher: https://dl.acm.org/citation.cfm?id=3062352
   website: https://plv.mpi-sws.org/scfix/
@@ -341,6 +349,7 @@
   venue_short: "POPL"
   year: 2017
 
+  doi: 10.1145/3009837.3009850
   copy_local: https://sf.snu.ac.kr/publications/promising.pdf
   copy_publisher: https://dl.acm.org/citation.cfm?id=3009850
   website: https://sf.snu.ac.kr/promise-concurrency/
@@ -357,6 +366,7 @@
   venue_short: "POPL"
   year: 2016
 
+  doi: 10.1145/2837614.2837642
   copy_local: https://sf.snu.ac.kr/publications/sepcompcert.pdf
   copy_publisher: https://dl.acm.org/citation.cfm?id=2837642
   website: https://sf.snu.ac.kr/sepcompcert/
@@ -374,6 +384,7 @@
   venue_short: "PLDI"
   year: 2015
 
+  doi: 10.1145/2813885.2738005
   copy_local: https://sf.snu.ac.kr/publications/intptrcast.pdf
   copy_publisher: https://dl.acm.org/citation.cfm?id=2738005
   website: https://sf.snu.ac.kr/intptrcast/
@@ -392,6 +403,7 @@
   venue_short: "TOPLAS"
   year: 2014
 
+  doi: 10.1145/2590811
   copy_publisher: https://dl.acm.org/citation.cfm?id=2590811
   website: http://ropas.snu.ac.kr/sparseanalysis/
 
@@ -404,4 +416,5 @@
   venue: "Electrical Journal of Combinatorics Volume 19, Issue 1"
   year: 2012
 
+  doi: 10.37236/2082
   copy_publisher: https://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i1p54
