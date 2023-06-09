@@ -16,9 +16,9 @@
   copy_local: https://drive.google.com/file/d/1t2SkkT2sV2bky3sLrhkBEahAzmwarjwz/view?usp=sharing
   copy_publisher: https://dl.acm.org/doi/10.1145/3558481.3591102
   artifact_local:
-  - name: Development
+  - name: development
     url: https://github.com/kaist-cp/hp-plus
-  - name: Benchmark
+  - name: benchmark
     url: https://github.com/kaist-cp/smr-benchmark
 
   abstract:
@@ -62,7 +62,7 @@
   doi: 10.1145/3591232
   copy_local: https://drive.google.com/file/d/1LaXKo1w3fHF2-ra7EA5d24ucCx1kRE3Q/view?usp=share_link
   artifact_local:
-  - name: Development
+  - name: development
     url: https://github.com/kaist-cp/memento
   website: pmem
 
@@ -98,7 +98,7 @@
   doi: 10.1145/3575693.3575701
   copy_local: https://drive.google.com/file/d/17kBZxz7XgfQ4DjBwW0GvD-e0DHwK1N85/view?usp=sharing
   artifact_local:
-  - name: Development
+  - name: development
     url: https://github.com/kaist-cp/shakeflow
 
 - title: "Compass: Strong and Compositional Library Specifications in Relaxed Memory Separation Logic"
@@ -155,9 +155,9 @@
   doi: 10.1145/3453483.3454027
   copy_local: https://drive.google.com/file/d/1C3j8mlfcyuFUW16J-BSiZ6h_aJdq_s5d/view?usp=sharing
   artifact_local:
-  - name: Coq proof
+  - name: proof
     url: https://github.com/kaist-cp/view-hw
-  - name: Model checker
+  - name: model checker
     url: https://github.com/kaist-cp/rmem-persistency
   website: pmem
 
@@ -197,7 +197,7 @@
   doi: 10.1145/3385412.3385978
   copy_local: https://drive.google.com/file/d/1PlTzqi1U9bhEJRBXc8VzegFUsO57Cydh
   artifact_local:
-  - name: Benchmark
+  - name: benchmark
     url: https://github.com/kaist-cp/smr-benchmark
 
   abstract: "All pointer-based nonblocking concurrent data structures should deal with the problem
