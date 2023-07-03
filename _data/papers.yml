@@ -1,3 +1,21 @@
+- title: "Modular Verification of Safe Memory Reclamation in Concurrent Separation Logic"
+  authors: [
+    "jaehwang.jung",
+    "janggun.lee",
+    "jaemin.choi",
+    "jaewoo.kim",
+    "sunho.park",
+    "jeehoon.kang",
+  ]
+  venue: "Object-oriented Programming, Systems, Languages, and Applications"
+  venue_short: "OOPSLA"
+  year: 2023
+  status: "conditionally accepted"
+  tags: [
+    "gc",
+  ]
+  website: gc
+
 - title: "Applying Hazard Pointers to More Concurrent Data Structures"
   authors: [
     "jaehwang.jung",
