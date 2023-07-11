@@ -12,7 +12,10 @@ excerpt: "Jeonghyeon Kim's website"
 
 I am an **Undergraduate Intern at [Concurrency and Parallelism Laboratory]({{ site.url }}), [KAIST School of Computing](https://cs.kaist.ac.kr)**. After I received my bachelor's degree in [Computer Science from the University of Seoul](https://cs.uos.ac.kr), I joined Concurrency and Parallelism Laboratory to find a better way to reason concurrent and parallel systems.
 
-Currently, I am interested in designing and verifying concurrent systems such as safe memory reclamation techniques or file systems.
+I started my research career by participating in [Jaehwang's HP++ project]({{ site.baseurl }}/gc), an extension of *Hazard pointers* for better applicability. On top of that, I am currently working on a novel way to improve the hazard pointer scheme even more, achieving both performance and robustness.
+<!-- TODO: Talk more about "a new way to improve hazard pointer" after finishing the work... -->
+
+Moreover, I am interested in verifying critical systems, such as distributed systems and file systems. Specifically, I am working with [Northeastern University](https://www.northeastern.edu/) to develop a framework to verify the safety and liveness of a distributed Key-value store.
 
 
 {% include person_contact.md person_id=person_id %}
