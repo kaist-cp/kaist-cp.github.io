@@ -10,7 +10,7 @@ excerpt: "Jaemin Choi's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/jaemin.choi.jpg" alt="{{ person.name }}">
 
-I am a **Master Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**. I am studying formal verification of concurrent systems - in particular, I'm working on formal verification of concurrent real-world programs.
+I was a **Master Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**. I studied formal verification of concurrent systems - in particular, I worked on formal verification of concurrent real-world programs.
 
 {% include person_contact.md person_id=person_id %}
 

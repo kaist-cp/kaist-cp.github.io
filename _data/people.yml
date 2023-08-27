@@ -58,22 +58,6 @@
       "(2013) B.S. in Computer Science and Technology. Central South University of Forestry and Technology.",
     ]
 
-- id: jaemin.choi
-  kaist_id: jaemin.choi98
-  name: Jaemin Choi
-  korean_name: 최재민
-  status: present
-  role: Master Student
-  image: assets/images/people/jaemin.choi.jpg
-  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
-  github: jh05013
-  google_scholar: https://scholar.google.com/citations?user=XWXUw2IAAAAJ
-  educations:
-    [
-      "(2021 - Current) M.S. student in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang](https://cp.kaist.ac.kr/jeehoon.kang/)).",
-      "(2021) B.S. in Computer Science. KAIST.",
-    ]
-
 - id: seungmin.jeon
   kaist_id: seungmin.jeon
   name: Seungmin Jeon
@@ -216,6 +200,23 @@
   github: cwlo2F
   educations: [
       "(2023) B.S. in Mathematical Sciences and Computer Science. KAIST (expected)."
+    ]
+
+- id: jaemin.choi
+  kaist_id: jaemin.choi98
+  name: Jaemin Choi
+  korean_name: 최재민
+  status: alumni
+  role: Master Student
+  job: FuriosaAI
+  image: assets/images/people/jaemin.choi.jpg
+  place: N/A
+  github: jh05013
+  google_scholar: https://scholar.google.com/citations?user=XWXUw2IAAAAJ
+  educations:
+    [
+      "(2023) M.S. student in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang](https://cp.kaist.ac.kr/jeehoon.kang/)).",
+      "(2021) B.S. in Computer Science. KAIST.",
     ]
 
 - id: chunmyong.park
