@@ -203,8 +203,9 @@
   image: assets/images/people/kisoo.kim.jpeg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: cwlo2F
+  orcid: 0009-0006-0180-0562
   educations: [
-      "(2023) B.S. in Mathematical Sciences and Computer Science. KAIST (expected)."
+      "(2024) B.S. in Mathematical Sciences and Computer Science. KAIST (expected)."
     ]
 
 - id: jaemin.choi
