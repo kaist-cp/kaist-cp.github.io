@@ -10,14 +10,17 @@ excerpt: "Minseong Jang's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/minseong.jang.jpeg" alt="{{ person.name }}">
 
-I am an **Undergraduate Student at [Mathematical Science](https://mathsci.kaist.ac.kr) and [KAIST School of Computing](https://cs.kaist.ac.kr)**.
-I am interested in designing concurrent and parallel systems.
+I am a **Master Student at KAIST [School of Computing](https://cs.kaist.ac.kr)** at [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr).
 
-I am currently working on [FPGA high-performance networking systems]({{ site.baseurl }}{% link _projects/fpga.md %}).
+I am currently working on [designing high-level hardware description language]({{ site.baseurl }}{% link _projects/fpga.md %})
 
 {% include person_contact.md person_id=person_id %}
 
 {% include person_education.md person_id=person_id %}
+
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
 
 #### Experiences
 
