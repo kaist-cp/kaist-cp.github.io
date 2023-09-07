@@ -10,7 +10,9 @@ excerpt: "Jung In Rhee's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/jungin.rhee.jpg" alt="{{ person.name }}">
 
-I am a **Undergraduate Student at KAIST [School of Computing](https://cs.kaist.ac.kr)**. I am currently working on [FPGA high-performance networking systems]({{ site.baseurl }}{% link _projects/fpga.md %}).
+I am a **Master Student at KAIST [School of Computing](https://cs.kaist.ac.kr)** at [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr).
+
+I am currently working on [designing high-level hardware description language]({{ site.baseurl }}{% link _projects/fpga.md %})
 
 
 {% include person_contact.md person_id=person_id %}
