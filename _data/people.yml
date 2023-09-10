@@ -69,8 +69,11 @@
   image: assets/images/people/seungmin.jeon.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: zzz845zz
+  google_scholar: https://scholar.google.co.kr/citations?user=6WyAOgQAAAAJ
+  orcid: 0009-0007-3256-5398
   educations:
     [
+      "(2024) M.S. in Computer Science. KAIST (expected).",
       "(2021) Computer Science & Engineering. Chungnam National University (expected).",
     ]
 
