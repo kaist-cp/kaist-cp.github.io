@@ -10,13 +10,29 @@ excerpt: "Seungmin Jeon's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/seungmin.jeon.jpg" alt="{{ person.name }}">
 
-I am an **Undergraduate Student at [Chungnam National University, Department of Computer Science and Engineering](http://cse.cnu.ac.kr/)**. I joined [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr) because I'm interested in designing concurrent and parallel systems and studying how to research these topics.
+I am a **Master Student at KAIST [School of Computing](https://cs.kaist.ac.kr)** at [Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr). 
 
-Thankfully, I am working on designing a practical [persistent memory library](https://cp.kaist.ac.kr/pmem), one of my interesting topics.
+My research focuses on enhancing the computing ecosystem for cutting-edge hardware, such as quantum computers and persistent memory.
 
 {% include person_contact.md person_id=person_id %}
 
 {% include person_education.md person_id=person_id %}
+
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
+
+- <span style="font-size: 110%; font-weight: bold;">Pre-processing Method for Bird Sound Classifier.</span>
+  <br />
+  Jaemin Kang, **Seungmin Jeon**, Hyungshin Kim.
+  <br />
+  Proceedings of 2020 IEMEK Symposium on Embedded Technology, July, 2020, pp. 40-41. (written in Korean)
+
+- <span style="font-size: 110%; font-weight: bold;">A Malware Variants Detection Method Based on Malicious API Call Sequence.</span>
+  <br />
+  **Seungmin Jeon**, Woojin Joe, Hyongshik Kim.
+  <br />
+  Proceedings of Korea Software Congress 2019, December, 2019, pp. 1630-1632 (written in Korean)
 
 #### Experiences
 
@@ -35,21 +51,3 @@ Thankfully, I am working on designing a practical [persistent memory library](ht
 - Research intern, System Architecture and Security Lab (Chungnam National University), June, 2019 - December, 2019
 
   (topic : identification of malicious code variants)
-
-
-#### Publications
-
-{% include publications.md author_id=person_id submitted=true %}
-
-- <span style="font-size: 110%; font-weight: bold;">Pre-processing Method for Bird Sound Classifier.</span>
-  <br />
-  Jaemin Kang, **Seungmin Jeon**, Hyungshin Kim.
-  <br />
-  Proceedings of 2020 IEMEK Symposium on Embedded Technology, July, 2020, pp. 40-41. (written in Korean)
-
-- <span style="font-size: 110%; font-weight: bold;">A Malware Variants Detection Method Based on Malicious API Call Sequence.</span>
-  <br />
-  **Seungmin Jeon**, Woojin Joe, Hyongshik Kim.
-  <br />
-  Proceedings of Korea Software Congress 2019, December, 2019, pp. 1630-1632 (written in Korean)
-
