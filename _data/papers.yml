@@ -10,11 +10,38 @@
   venue: "Object-oriented Programming, Systems, Languages, and Applications"
   venue_short: "OOPSLA"
   year: 2023
-  status: "conditionally accepted"
   tags: [
     "gc",
   ]
   website: gc
+  doi: 10.1145/3622827
+  copy_local: https://drive.google.com/file/d/1hBjJ6nhFYiTJ1KI5u7i8MvLPznysBGSD/view?usp=sharing
+  artifact_local:
+  - name: Coq proofs
+    url: https://github.com/kaist-cp/smr-verification
+
+  abstract:
+    "Formal verification is an effective method to address the challenge of
+    designing correct and efficient concurrent data structures. But
+    verification efforts often ignore <em>memory reclamation</em>, which
+    involves nontrivial synchronization between concurrent accesses and
+    reclamation. When incorrectly implemented, it may lead to critical safety
+    errors such as use-after-free and the ABA problem. Semi-automatic safe
+    memory reclamation schemes such as hazard pointers and RCU encapsulate the
+    complexity of manual memory management in modular interfaces. However, this
+    modularity has not been carried over to formal verification.
+    <br />
+    We propose modular specifications of hazard pointers and RCU, and formally
+    verify realistic implementations of them in concurrent separation logic.
+    Specifically, we design abstract predicates for hazard pointers that
+    capture the meaning of <em>validating</em> the protection of nodes, and
+    those for RCU that support <em>optimistic traversal</em> to possibly
+    retired nodes. We demonstrate that the specifications indeed facilitate
+    modular verification in three criteria: compositional verification, general
+    applicability, and easy integration. In doing so, we present the first
+    formal verification of Harris's list, the Harris-Michael list, the
+    Chase-Lev deque, and RDCSS with reclamation. We report the Coq
+    mechanization of all our results in the Iris separation logic framework."
 
 - title: "Applying Hazard Pointers to More Concurrent Data Structures"
   authors: [
