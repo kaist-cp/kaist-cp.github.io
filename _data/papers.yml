@@ -89,6 +89,7 @@
   changelog:
   - "Figure 8: Optimized HP++ SkipList."
   - "Figure 9: Fixed Y-axis labels."
+  - "Algorithm 4: Fixed the ABA problem involving anchor_next."
 
 - title: "Memento: A Framework for Detectable Recoverability in Persistent Memory"
   authors: [
