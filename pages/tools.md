@@ -69,7 +69,7 @@ permalink: /tools
 
 - [Chat (Zulip)](https://chat.fearless.systems)
 
-    + First things first, say hi in [this topic](bhttps://chat.fearless.systems/#narrow/stream/112-general/topic/.EC.86.8C.EA.B0.9C).
+    + First things first, say hi in [this topic](https://chat.fearless.systems/#narrow/stream/112-general/topic/.EC.86.8C.EA.B0.9C).
 
     + It is our primary method of communication.
 
