@@ -23,7 +23,7 @@
   role: PhD Student
   image: assets/images/people/kyeongmin.cho.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
-  github: drzix
+  github: kyeongmincho
   google_scholar: https://scholar.google.co.kr/citations?user=KJd2XC4AAAAJ
   orcid: 0000-0003-3685-2320
   educations:
@@ -74,7 +74,7 @@
   educations:
     [
       "(2024) M.S. in Computer Science. KAIST (expected).",
-      "(2021) Computer Science & Engineering. Chungnam National University (expected).",
+      "(2021) Computer Science & Engineering. Chungnam National University.",
     ]
 
 - id: janggun.lee
@@ -288,7 +288,7 @@
   github: gabriel4256
   educations:
     [
-      "(2023) M.S. in Computer Science. KAIST (expected).",
+      "(2023) M.S. in Computer Science. KAIST.",
       "(2021) B.S. in Computer Science & Engineering. Hanyang university.",
     ]
 
@@ -358,8 +358,8 @@
   google_scholar: https://scholar.google.co.kr/citations?user=rizoj1IAAAAJ
   educations:
     [
-      "(2019) B.S. in Computer Engineering. Ajou University.",
       "(2021) M.S. in Software Graduate Program. KAIST",
+      "(2019) B.S. in Computer Engineering. Ajou University.",
     ]
 
 - id: jungwoo.kim
@@ -370,7 +370,7 @@
   job: Computer Architecture and Systems Lab, KAIST
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: kimjungwow
-  educations: ["(2021) B.S. in Computer Science. KAIST (expected)."]
+  educations: ["(2021) B.S. in Computer Science. KAIST."]
 
 - id: murad.bashirov
   name: Murad Bashirov
@@ -401,7 +401,7 @@
   github: coolofficials
   educations:
     [
-      "(2021) B.S. in Mathematical Science & Computer Science. KAIST (expected).",
+      "(2021) B.S. in Mathematical Science & Computer Science. KAIST.",
     ]
 
 - id: haroon.ahmed
@@ -425,7 +425,7 @@
   image: assets/images/people/seoyun.son.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: anemoneflower
-  educations: ["(2021) B.S. in Computer Science. KAIST (expected)."]
+  educations: ["(2021) B.S. in Computer Science. KAIST."]
 
 - id: taewoo.an
   name: Taewoo An
@@ -461,7 +461,7 @@
   role: Undergraduate Student
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: qawbecrdtey
-  educations: ["(2021) B.S. in Computer Science. KAIST (expected)."]
+  educations: ["(2021) B.S. in Computer Science. KAIST."]
 
 - id: hyunsu.kim
   kaist_id: hyunsu.kim00
@@ -470,7 +470,7 @@
   role: Undergraduate Student
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: hyunsukimsokcho
-  educations: ["(2020) B.S. in Computer Science. KAIST (expected)."]
+  educations: ["(2020) B.S. in Computer Science. KAIST."]
 
 - id: jiseung.hong
   name: Jiseung Hong
