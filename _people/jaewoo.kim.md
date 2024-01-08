@@ -18,6 +18,9 @@ I am interested in formally defining and proving program behavior using logic.
 
 {% include person_education.md person_id=person_id %}
 
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
 
 #### Experiences
 
