@@ -212,6 +212,17 @@
       "(2024) B.S. in Computer Science and Engineering. Inha University (expected).",
     ]
 
+- id: seungho.jang
+  kaist_id: seungho.jang
+  name: Seungho Jang
+  korean_name: 장승호
+  status: present
+  role: B.S. Student
+  image: assets/images/people/seungho.jang.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: hoosong0235
+  educations: ["(2027) B.S. in Computer Science. KAIST (expected)."]
+
 - id: kisoo.kim
   name: Kisoo Kim
   korean_name: 김기수
