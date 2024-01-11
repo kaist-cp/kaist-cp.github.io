@@ -8,7 +8,7 @@ excerpt: "Seungho Jang's website"
 {%- assign person_id = "seungho.jang" %}
 {%- assign person = site.data.people | where:"id",person_id | sample %}
 
-<img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/seungho.jang.png" alt="{{ person.name }}">
+<img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/seungho.jang.jpg" alt="{{ person.name }}">
 
 I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**.
 
