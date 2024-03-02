@@ -18,7 +18,9 @@
 
   {% if person.github %}
   <li class="list-inline-item">
-    <a href="https://github.com/{{ person.github }}">:octocat:</a>
+    <a href="https://github.com/{{ person.github }}">
+      <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20">
+    </a>
   </li>
   {% endif %}
 
