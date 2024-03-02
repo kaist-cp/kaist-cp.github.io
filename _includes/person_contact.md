@@ -10,7 +10,7 @@
 #### Contact
 
 - :love_letter: Email: [{{ mail_id }}@kaist.ac.kr](mailto:{{ mail_id }}@kaist.ac.kr)
-- :octocat: GitHub: [{{ person.github }}](https://github.com/{{ person.github }})
+- <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20"> GitHub: [{{ person.github }}](https://github.com/{{ person.github }})
 - :page_facing_up: Bibliography:{% if person.orcid %} <a href="https://orcid.org/{{ person.orcid }}"><img class="orcid" style="width: 20px; " src="{{ '/assets/images/orcid.svg' | relative_url }}"> ORCID</a>, {% endif %}
   <a href="{{ person.dblp }}"><img class="dblp" style="width: 20px; " src="{{ '/assets/images/dblp.png' | relative_url }}"> DBLP</a>,
   <a href="{{ person.google_scholar }}"><img class="google" style="width: 20px; " src="{{ '/assets/images/google.png' | relative_url }}"> Google Scholar</a>
