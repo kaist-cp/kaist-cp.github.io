@@ -236,6 +236,19 @@
       "(2024) B.S. in School of Computing. KAIST (expected).",
     ]
 
+- id: sungjae.im
+  name: Sungjae Im
+  korean_name: 임성재
+  status: present
+  role: B.S. Student
+  image: assets/images/people/sungjae.im.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: existar33
+  educations:
+    [
+      "(2027) B.S. in School of Computing. KAIST (expected).",
+    ]
+
 - id: kisoo.kim
   name: Kisoo Kim
   korean_name: 김기수
