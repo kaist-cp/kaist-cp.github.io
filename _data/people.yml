@@ -162,7 +162,11 @@
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: travis1829
   orcid: 0000-0003-4257-5294
-  educations: ["(2024) B.S. in Computer Science. KAIST (expected)."]
+  educations:
+    [
+      "(2024 - Current) M.S. in Computer Science. KAIST.",
+      "(2024) B.S. in Computer Science. KAIST."
+    ]
 
 - id: sunho.park
   kaist_id: sunho0371
