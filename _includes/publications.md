@@ -64,7 +64,7 @@ p.abstract-paragraph + p.abstract-paragraph {
   <br />
   {% if paper_links.size > 0 %}\[paper: {{ paper_links | join: ", " }}\] {% endif %} ​
   {% if artifact_links.size > 0 %}\[artifact: {{ artifact_links | join: ", " }}\] {% endif %} ​
-  {% if include.website and paper.website %}\[[website](/{{ paper.website }})\]{% endif %} ​
+  {% if include.website and paper.website %}\[[website]({{ paper.website }})\]{% endif %} ​
   <br />
   {% if include.full and paper.abstract %}
   <div style="margin: 20px; font-size: 0.9em; line-height: 1.44em;">

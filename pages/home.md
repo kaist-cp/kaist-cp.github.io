@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Concurrency and Parallelism
+title: KAIST Concurrency and Parallelism
 description: We design and verify innovative concurrent and parallel systems.
 background: /assets/images/kaist.jpg
 permalink: /
@@ -10,65 +10,44 @@ permalink: /
 {% assign pi_url = pi_url | strip %}
 
 {: .alert .alert-info}
-**We're actively recruiting motivated students of all levels
-interested in designing and verifying concurrent and parallel systems.** If you're interested,
-please **read this [instruction]({{ site.baseurl }}/join) and
-contact [Jeehoon]({{ site.baseurl }}/jeehoon.kang) ASAP.**
+**We are currently seeking enthusiastic students at all academic levels who are interested in designing and verifying concurrent and parallel systems.**
+If this interests you, please **review these [instructions]({{ site.baseurl }}/join) and contact [Jeehoon]({{ site.baseurl }}/jeehoon.kang) as soon as possible.**
 
-
-<!-- Welcome to Concurrency and Parallelism Laboratory at [KAIST](https://www.kaist.ac.kr) [School of Computing](https://cs.kaist.ac.kr)! -->
 
 ## Projects
 <div id="projects"></div>
 
-**In the era of big data, artificial intelligence, and internet of things**, humankind requires more and
-more computing resources, but they are becoming more and more scarce due to the slowing of Dennard
-scaling and Moore's law. The only way to meet the demand is to massively parallelize computing
-resources to mitigate the damages of the slowing. 
+**In the era of big data, artificial intelligence, and the Internet of Things**, the demand for computing resources is rapidly increasing.
+However, these resources are becoming scarce due to the slowing of Dennard scaling and Moore's law.
+The most viable solution to address this shortage is to massively parallelize computing resources, helping to offset the impact of this slowdown. 
 
-**So we aim to design, implement, and verify such massively parallel systems**, from
-microarchitectures to programming languages to algorithms, that greatly improves the performance and
-significantly reduces power consumption over conventional systems.
+**Our objective is to design, implement, and verify such massively parallel systems**.
+These systems range from microarchitectures to programming languages and algorithms, aiming to significantly enhance performance and reduce power consumption compared to conventional systems.
 
-Our general strategy in attacking this goal is (1) to **holistically understand** the entire
-computer systems; (2) to **design abstraction layers** that realize the intrinsic parallelism of
-the workloads while providing easy programming environment at the same time; and (3) to **formally
-verify** such abstraction layers so that the users can use the them safely and fearlessly.
+Our approach to achieving this goal involves three main strategies:
+(1) **gaining a holistic understanding** of the entire computer systems;
+(2) **designing abstraction layers** that harness the intrinsic parallelism of workloads while simultaneously offering an easy programming environment; and
+(3) **formally verifying** these abstraction layers to ensure their safe and confident use by users.
 
+Specifically, our focus is on the *design* and *verification* of concurrent and parallel systems:
 
-
-Specifically, we are working on *design* and *verification* of concurrent and parallel systems:
-
-- **Designing concurrent and parallel systems**: It is difficult to develop efficient and yet safe
-  concurrent software and hardware, because efficient systems should allow concurrent accesses from
-  multiple threads or components that complicate the reasoning of safety. 
+- **Designing concurrent and parallel systems**: Developing efficient yet safe concurrent software and hardware is challenging. Efficient systems must support concurrent accesses by multiple threads or components, which complicates safety considerations. 
   
-  **So we are developing design principles** for coordinating concurrent accesses, and based on the
-  design principles, building practical concurrent systems. Specifically, we are building:
+  **Therefore, we are developing design principles** for managing concurrent accesses and creating practical concurrent systems based on these principles. Our current projects include:
 
-  + [AI serving systems]({{ site.baseurl }}{% link _projects/ai-system.md %}), optimized for NPUs (with [FuriosaAI](https://www.furiosa.ai/))
-  + [Operating systems in Rust](https://github.com/kaist-cp/rv6), safe by construction (with Google)
-  + [Persistent memory library]({{ site.baseurl }}{% link _projects/pmem.md %}), with solid design principles (with ETRI)
-  + [Concurrent garbage collector]({{ site.baseurl }}{% link _projects/gc.md %}), with high throughput and low latency
-  + [FPGA high-performance networking systems]({{ site.baseurl }}{% link _projects/fpga.md %}), easily programmable
+  + [AI serving systems]({{ site.baseurl }}{% link _projects/ai-system.md %}), optimized for NPUs in partnership with [FuriosaAI](https://www.furiosa.ai/)
+  + [Operating systems in Rust](https://github.com/kaist-cp/rv6), designed for safety
+  + [Persistent memory library]({{ site.baseurl }}{% link _projects/pmem.md %}), based on robust design principles
+  + [Concurrent garbage collector]({{ site.baseurl }}{% link _projects/gc.md %}), focused on high throughput and low latency
+  + [FPGA high-performance networking systems]({{ site.baseurl }}{% link _projects/fpga.md %}), emphasizing ease of programming
 
-    <!-- To this end, we are using [Crossbeam](https://github.com/crossbeam-rs/crossbeam) (a -->
-    <!-- [Rust](https://www.rust-lang.org) concurrency library) and [RISC-V](https://riscv.org/) (an -->
-    <!-- open-source ISA) as the testbed. -->
-
-- **Verifying concurrent and parallel systems**: It is difficult to ensure the safety of concurrent
-  software and hardware by testing because they exhibit so many behaviors due to inherent
-  nondeterminism arising from scheduling, optimization, or other factors. 
+- **Verifying concurrent and parallel systems**: Ensuring the safety of concurrent software and hardware through testing alone is challenging due to the inherent non-determinism from scheduling, optimization, and other factors. 
   
-  **So we are designing verification techniques** for proving the correctness of concurrent systems
-  and verify real-world systems---such as operating systems, database systems, or cache coherence
-  protocols, thereby answering the following research question: is verification more cost-effective
-  than testing for concurrent systems? Specifically, we are verifying:
+  **Thus, we are developing verification techniques** to prove the correctness of concurrent systems and verify real-world systems like operating systems, database systems, or cache coherence protocols. This helps us explore whether verification is more cost-effective than testing for concurrent systems. Our verification projects include:
 
-  + Persistent memory library (with ETRI)
-  + Strong specification of concurrent data structures (with MPI-SWS)
-  + 
-  Strong specification of concurrent garbage collectors
+  + Persistent memory library
+  + Strong specifications for concurrent data structures
+  + Strong specifications for concurrent garbage collectors
   + Compilers for concurrent programs
 
 

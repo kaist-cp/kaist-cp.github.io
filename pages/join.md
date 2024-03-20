@@ -5,215 +5,160 @@ background: /assets/images/kaist.jpg
 permalink: /join
 ---
 
-Thank you for your interest in joining the lab!
-This document contains all the information you should know, so please read it carefully to proceed on.
+Thank you for your interest in joining our lab! 
+This document contains all the information you need, so please read it thoroughly before proceeding.
 
 ## Application Procedure
 
-- **Don't hesitate to contact [Jeehoon]({{ site.baseurl }}/jeehoon.kang).** 
+- **Feel free to contact [Jeehoon]({{ site.baseurl }}/jeehoon.kang).** 
+  There are no barriers to reaching out to Jeehoon, such as GPA or experience. 
+  You can also connect with Jeehoon through [comments](https://www.fearless.systems/#contact)!
 
-  There are nothing blocking you from contacting Jeehoon (e.g., GPA, experience, ...).
-  You can also contact Jeehoon via [comments](https://www.fearless.systems/#contact)!
+- **Create an email account in the format `{firstname}.{lastname}{prefix}@kaist.ac.kr`** (if you're a KAIST student).
+    + Ideally, `{prefix}` should be empty. If taken, add a random number, like `{firstname}.{lastname}42@kaist.ac.kr`.
+    + Set up a "virtual mail" at <mail.kaist.ac.kr> > Upper right-hand gear > Settings > Mail > Virtual Mail > Add Mail.
 
-- **Create a `{firstname}.{lastname}{prefix}@kaist.ac.kr` email account** (if you're a KAIST student).
+- **Complete the [Google Form](https://forms.gle/CX1fqaev1ed5i6ZQ6)**.
 
-    + `{prefix}` should preferably be empty.
-      If it is already taken, add a random number at the end of the id, e.g., `{firstname}.{lastname}42@kaist.ac.kr`.
+- **Schedule a 30-minute Google Meet meeting with Jeehoon.**
+  Create a Google Calendar event and invite [jeehoon.kang@cp.kaist.ac.kr](mailto:jeehoon.kang@cp.kaist.ac.kr). 
+  Check [Jeehoon's calendar]({{ site.baseurl }}/jeehoon.kang#calendar) for his availability.
 
-    + You can add "virtual mail" in <mail.kaist.ac.kr> > Upper right-hand side gear > Settings > Mail > Virtual Mail > Add Mail.
+- **Email Jeehoon at [jeehoon.kang@kaist.ac.kr](mailto:jeehoon.kang@kaist.ac.kr)**.
+  + Use your `{firstname}.{lastname}{prefix}@kaist.ac.kr` email (for KAIST students).
+  + Inform Jeehoon that you have submitted the Google Form and scheduled a meeting.
 
-- **Submit a [Google Form](https://forms.gle/CX1fqaev1ed5i6ZQ6)**.
-
-- **Invite Jeehoon to a 30-minute Google Meet meeting.**
-
-  Please create a Google calendar event and invite [jeehoon.kang@cp.kaist.ac.kr](mailto:jeehoon.kang@cp.kaist.ac.kr) to the event.
-  Consult [Jeehoon's calendar]({{ site.baseurl }}/jeehoon.kang#calendar) for his schedule.
-
-- **Send an email to Jeehoon ([jeehoon.kang@kaist.ac.kr](mailto:jeehoon.kang@kaist.ac.kr))**.
-
-  + Your email address should be of the form `{firstname}.{lastname}{prefix}@kaist.ac.kr` (if you're a KAIST student).
-
-  + Tell me that you already submitted a Google Form and invited me to a Google Meet meeting.
-
-- **Finish reading this document** while waiting for Jeehoon's reply.
-
+- **Read this entire document** while awaiting a response from Jeehoon.
 
 
 ## Requirements
 
-- **All new graduate students are required to finish at least two of the followings before joining
-  the lab.** So please start working on one of them ASAP.
+- **All new graduate students must complete at least two of the following before joining the lab**:
+    + Homework from [KAIST CS420: Compiler Design](https://github.com/kaist-cp/cs420). Lectures are on YouTube; questions can be asked in the course repository's issue tracker.
+    + Homework from [KAIST CS431: Concurrent Programming](https://github.com/kaist-cp/cs492-concur). Lectures are on YouTube; questions can be asked in the course repository's issue tracker.
+    + Exercises from [Software Foundations](https://softwarefoundations.cis.upenn.edu/) Volumes 1 and 2.
+    + Studying the [Corundum](https://github.com/corundum/corundum) open-source FPGA-based NIC.
 
-    + Homework assignments of [KAIST CS420: Compiler Design](https://github.com/kaist-cp/cs420).
-      Lecture videos are uploaded to YouTube, and you can ask questions in the course repository's issue tracker.
-
-    + Homework assignments of [KAIST CS431: Concurrent Programming](https://github.com/kaist-cp/cs492-concur).
-      Lecture videos are uploaded to YouTube, and you can ask questions in the course repository's issue tracker.
-
-    + Exercises of [Software Foundations](https://softwarefoundations.cis.upenn.edu/) Volumes 1 and 2.
-    
-    + Reading the [Corundum](https://github.com/corundum/corundum) open-source FPGA-based NIC.
-
-- **You're also strongly encouraged to join the lab as an undergraduate intern**.
-
-  Please use internship as an opportunity to see what's actually going on in the lab.
-  We are widely open to all undergraduate students!
-  Though I'm encouraging potential interns to finish **at least one** of the above tasks before joining the lab as an intern.
-  Then you'll start research projects right after joining the lab.
-
+- **Undergraduate interns are highly encouraged to join the lab**.
+  Use the internship to experience lab life. 
+  Ideally, complete **at least one** of the above tasks before joining. 
+  This will allow you to start research projects immediately upon joining.
 
 
 ## General Advice
 
-Welcome to the lab! Here's my two cents about research and work in general.
+Welcome to the lab! Here are my insights on research and work in general.
 
 ### What is Research?
 
 > "Research is what I am doing when I don't know what I am doing," Wernher von Braun
 
-The defining characteristic of research is everything---from motivation to methods to evaluation to
-goal---is tentative: in the middle of doing research, you don't know what will be the end result. As
-a consequence, a researcher will suffer everyday from:
+Research is defined by its tentativeness in every aspect, from motivation to methods, evaluation, and goals. During research, the final outcome is often unknown. This uncertainty leads researchers to frequently encounter:
 
-- **Failures**. You don't know what you're doing, so you'll fail almost always. To deal with
-  the frustration from such failures, you should be mentally tough enough to tolerate such
-  frustration. If successful, from time to time you will be able to understand or design small
-  things, which accumulate to a paper and then a thesis.
+- **Failures**. Not knowing exactly what you're doing means frequent failures. It's essential to be mentally resilient to handle this frustration. Over time, small successes can accumulate, contributing to papers and eventually a thesis.
 
-- **Changing plans**. You don't know what you're doing, so your goal will be changing as you make
-  progress on your project. So any long-term plan is destined to be significantly revised (if not cancelled). Thus you
-  should think of the goal as a ever-moving target, the current version being just the best possible
-  approximation of the actual end result. Your goal should be neither too concrete nor too abstract:
-  if too concrete, it will not be resilient to the revision; if too abstract, it will not guide your
-  research.
-
+- **Changing Plans**. As your understanding evolves, so will your goals. Consider your goal as an ever-moving target; the current version is merely the best approximation of the eventual outcome. Goals should be balanced: not too concrete to be inflexible to changes, yet not too abstract to lack direction.
 
 
 ### Management Principles
 
-To get things done despite the fundamental uncertainty of research, this lab (ironically) aims to keep tangential uncertainty to the minimum.
-All uncertainty are not created equal.
-Some uncertainty, such as confusion on schedule or communication, is not beneficial for productivity.
-On the other hand, other uncertainty, such as unexplored design spaces, is the very definition of research.
-To be productive, we need to keep the former to the minimum and control the latter to the appropriate amount.
-(The meaning of "the appropriate amount" constitutes a researcher's character; at first, please follow Jeehoon's taste.)
+Despite the inherent uncertainty in research, our lab aims to minimize tangential uncertainty. Not all uncertainties are productive; for example, confusion about schedules or communication hinders progress. However, exploring uncharted areas is essential in research. We distinguish between these types of uncertainty, aiming to reduce the former while appropriately managing the latter.
 
-To minimize the unnecessary uncertainty, this lab enforces a small number of rules on communication.
-Rules are good at minimizing confusions.
-For example, is it okay to mention someone in chatting applications during night time?
-People have vastly different opinion on this, possibly causing unnecessary tension among them, so we want to *define* whether it's acceptable or rude in a rule.
-(FYI, we allow night-time mentions, but you're required to react to them only in work hours.)
-On the other hand, rules are hard to follow if there are so many.
-So we want to keep the number of rules as low as possible.
-
+To reduce unnecessary uncertainty, we enforce a few communication rules. These rules help prevent misunderstandings. For instance, we have guidelines about nighttime communications in chat applications to avoid potential tension. Our policy is to allow night-time mentions, but responses are only required during working hours. We strive to keep the number of rules minimal to ensure they are easy to follow.
 
 
 ### Communication
 
 #### Asynchronous Communication
 
-- **Always, strongly prefer asynchronous communication**: the receiver is not required to reply promptly.
-  If you can say something asynchronously, please do it so as early as possible.
-  For example, you want Jeehoon to review your document, please send it to him as soon as you finish writing it. Don't wait for the meeting time to come.
-  Please address Jeehoon's comments as soon as possible, and when it's done, please notify him of the progress.
+- **Prioritize asynchronous communication**: This means the recipient is not obliged to respond immediately. If something can be communicated this way, do so as soon as possible. For example, if you need Jeehoon to review a document, send it to him right after completion instead of waiting for a meeting. Address his feedback promptly and inform him once it's done.
 
-- While communication is asynchronous by default, try to reply to messages reasonably often.
-  In work hours, try to reply to messages by 15 minutes. (No need to even reply in other times.)
+- While defaulting to asynchronous communication, ensure timely responses. Aim to reply to messages within 15 minutes during work hours.
 
-- Before asking for a synchronous meeting (face-to-face or online), write down a meeting agenda and share it.
-  In the agenda, clearly state the purpose of meeting. It can be, but not limited to: (1) reporting the progress, (2) asking questions/opinions, or (3) just chatting.
-  If you have multiple things to discuss, enumerate them at the beginning of a meeting for better planning of the meetings.
+- Before requesting a synchronous meeting (either face-to-face or online), prepare and share a meeting agenda. This agenda should clearly state the meeting's purpose, such as reporting progress, seeking advice, or casual conversation. List all discussion points at the start for better meeting organization.
 
-    + If you don't send an agenda, the meeting is potentially going to be canceled.
-    + If the meeting is to discuss a document, please send it at least by 12 hours before the meeting so that the others can review it.
-      Share it anyway even if you couldn't finish writing the document by the time, because the others need to start making comments on it.
+    + Meetings may be canceled if an agenda is not provided.
+    + For discussions involving a document, share it at least 12 hours before the meeting to allow time for review. Share it even if incomplete to enable early feedback.
 
 
 #### Volume
 
-- **At 10am and 3pm everyday, please leave about five sentences to the [daily log](https://cp-chat.kaist.ac.kr/#narrow/stream/16-daily-log)** about what you'll do and what you've done for the day.
+- **Post brief updates in the [daily log](https://cp-chat.kaist.ac.kr/#narrow/stream/16-daily-log) at 10am and 3pm every day**. These updates should outline your plans and achievements for the day.
 
-- **Schedule at least one meeting for at least 15 minutes a week with Jeehoon**.
-  It can be about anything such as research, coursework, TA...
+- **Arrange a minimum of one 15-minute meeting per week with Jeehoon**. These meetings can cover various topics, including research, coursework, or teaching assistant duties.
 
 
 #### Discussion
 
-- **Don't pretend to know something if you don't.**
-  If you do that, then you're losing an opportunity to (1) learn the knowledge; and (2) go deeper into the problem that leads to a great research topic.
-  Cherish (and even foster) your ignorance.
-  Don't assume the others will look down on you if you don't know something. I know people often do it, but it's their bad.
-  + Don't say yes (or no) if you're not sure about it.
-  + Don't say you understood something if you don't.
-  + You're encouraged to say "I don't get it" and "I don't know that."
+- **Never pretend to understand something when you don't.**
+  By doing so, you miss the chance to (1) gain new knowledge; and (2) delve deeper into problems that could lead to significant research topics.
+  Embrace your lack of knowledge.
+  Remember, it's okay not to know everything; don't worry about others judging you for it.
+  + Avoid affirming or denying something if you're uncertain.
+  + Be honest if you don't understand something.
+  + It's encouraged to admit, "I don't get it" or "I don't know that."
 
-- **Be faithful to the discussion.**
-  If you disagree, say so; if you don't like it, say so; if you're happy with it, say so!
-  But don't try to *win* the argument. Research is not about winning and losing (especially within the same group).
-  Try to summarize what you want to say (e.g., "Your idea doesn't work in general") and then substantiate your argument with evidences (e.g., "for instance, let's look at this code: ...").
+- **Stay true to the essence of the discussion.**
+  Express your agreement or disagreement openly; if you like or dislike something, say it.
+  However, avoid turning discussions into a battle to win. Research is collaborative, not competitive.
+  Start by summarizing your point (e.g., "I think this idea might not work generally") and then provide evidence for your argument (e.g., "For example, consider this code: ...").
 
-- **Don't be angry or grumpy when the discussion is getting hotter.**
-  Research and any other creative works require different opinions clashing with each other, or in other words, *hot discussions*.
-  But they don't need to be involved with emotions clashing with each other.
-  I know it's difficult to separate them out, but let's try to do that.
+- **Keep your cool in heated discussions.**
+  Research and creative work thrive on diverse, sometimes conflicting, perspectives, leading to intense discussions.
+  However, it's important to keep emotions separate.
+  Although challenging, strive to maintain a level head.
 
-- **Right after every discussion, write down and share a summary note** in the corresponding project stream in Zulip.
-  For instance:
+- **Summarize and share notes from discussions immediately** in the relevant project stream on Zulip.
+  For example:
 
         ## discussions
-        - method A won't work because of B. (but is B really relevant?)
-        - anyway, let's first try C instead.
-        - maybe D is also worth looking at?
+        - Method A may fail due to reason B. (Is B relevant?)
+        - Let's try Method C first.
+        - Also, exploring Method D could be beneficial.
 
         ## action items
-        - jeehoon: contact D's authors
-        - kyeongmin: investigate if B really matters, and document why A won't work in gitlab.
-        - seungmin: implement C, make a schedule for the next meeting
+        - Jeehoon: reach out to the authors of Method D.
+        - Kyeongmin: assess the significance of B, and document the shortcomings of A in GitLab.
+        - Seungmin: start implementing C and plan the next meeting.
 
-  Please faithfully summarize discussions. Especially, be fair to the ideas you don't agree with.
+  Always provide a balanced summary, even for ideas you disagree with.
 
 
 #### Reliability
 
-- **Make sure to share crucial details to the collaborators.**
-  Without a sufficient amount of communication, it's often difficult to make progresses on your research.
-  For instance, maybe the problem you're solving hard right now is already dealt with by the others, so frequently tell the others about your progress.
-  (Too much communication, on the other hand, may be burdensome but it can be easily and proactively addressed, so it usually doesn't cause any harm.)
+- **Regularly communicate key information to collaborators.**
+  Adequate communication is vital for progress in research.
+  Your current challenge might already be addressed by others, so keep everyone updated on your work.
+  While excessive communication can be a burden, it's usually harmless and can be proactively managed.
 
-- **Make sure that no feedbacks or action items get ignored.**
-  More concretely, when you receive a feedback, address it or give a counterargument against it.
-  When you're not capable of doing action items by their deadline, please say so as early as possible.
-    + It doesn't mean you need to foresee the future and always finish your work by the time.
-      I know you're not going to make it quite often. (It's research!) 
-      Just tell the others that in a timely manner. That's it.
-    + If you're reliable on this, the others can depend on you to get things done.
-      If you're unreliable and you miss feedbacks or action items, the others also need to track them, which causes great management cost.
+- **Respond to feedback and action items without fail.**
+  When you receive feedback, either address it or provide a reasoned counterargument.
+  If you're unable to complete action items by their deadline, notify your team as soon as possible.
+    + This doesn't mean you must always meet deadlines perfectly. Research can be unpredictable, and it's normal to encounter delays. The key is timely communication.
+    + Being reliable in this aspect allows others to trust you with responsibilities. Unreliability, such as missing feedback or action items, burdens others with additional tracking and management.
 
 
-#### Writing and speaking skills
+#### Writing and Speaking Skills
 
-- **Try to be direct, top-to-bottom, and conclusion-first**.
+- **Strive for clarity and directness in communication.**
+  Instead of a sequential explanation like "A leads to B, which leads to C," use a direct approach: "C is the result, due to B, which is caused by A."
 
-  Don't say "A, so B, and then C". Try "C, because B. Should you wonder, B is due to A."
+- **Learn from Dr. Derek Dreyer's resources on effective communication**:
+    + [How to write papers so people can read them](https://people.mpi-sws.org/~dreyer/talks/talk-plmw16.pdf), PLMW@POPL 2016.
+    + [How to give talks that people can follow](https://people.mpi-sws.org/~dreyer/talks/talk-plmw18popl.pdf), PLMW@POPL 2018.
+    + [How to write papers and give talks that people can follow](https://people.mpi-sws.org/~dreyer/talks/talk-plmw17icfp.pdf), PLMW@ICFP 2017.
 
-- **Read how to write papers and give talks by [Dr. Derek Dreyer](https://people.mpi-sws.org/~dreyer/)**:
-    + [How to write papers so people can read them](https://people.mpi-sws.org/~dreyer/talks/talk-plmw16.pdf), PLMW@POPL 2016
-    + [How to give talks that people can follow](https://people.mpi-sws.org/~dreyer/talks/talk-plmw18popl.pdf), PLMW@POPL 2018
-    + [How to write papers and give talks that people can follow](https://people.mpi-sws.org/~dreyer/talks/talk-plmw17icfp.pdf), PLMW@ICFP 2017
-
-- **Use Derek's CGI model** when summarizing papers or writing proposals.
-  Analyze the context, gap, innovation, strength, and weakness of papers and proposals.
-  Here's [an example](https://docs.google.com/document/d/1W8coma11JFp0JIaVqFnZYkEa0sBkgZ1ijTSh6j8c_Gw).
-
+- **Apply Derek's CGI model** in summarizing papers or drafting proposals.
+  Evaluate the context, gap, innovation, strengths, and weaknesses of papers and proposals.
+  For guidance, refer to [this example](https://docs.google.com/document/d/1W8coma11JFp0JIaVqFnZYkEa0sBkgZ1ijTSh6j8c_Gw).
 
 
 ## Tools
 
-Please read a [dedicated document]({{ site.baseurl }}{% link pages/tools.md %}).
+For detailed information about our tools, please refer to the [dedicated document]({{ site.baseurl }}{% link pages/tools.md %}).
 
 
+## Completion
 
-## It's Done!
-
-Please check this document again to make sure you've done all action items.
-Then after joining the lab, send a Zulip DM to Jeehoon that you did so.
+Before joining the lab, double-check that you have completed all the listed action items.
+Once you join, notify Jeehoon via a direct message on Zulip.

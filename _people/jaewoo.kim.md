@@ -10,7 +10,7 @@ excerpt: "Jaewoo Kim's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/jaewoo.kim.jpg" alt="{{ person.name }}">
 
-I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**.
+I am a **Master's Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**.
 I am interested in formally defining and proving program behavior using logic.
 
 
@@ -18,6 +18,9 @@ I am interested in formally defining and proving program behavior using logic.
 
 {% include person_education.md person_id=person_id %}
 
+#### Publications
+
+{% include publications.md author_id=person_id submitted=true %}
 
 #### Experiences
 

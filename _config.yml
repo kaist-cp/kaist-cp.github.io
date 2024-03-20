@@ -1,7 +1,7 @@
 remote_theme: peterdesmet/petridish@3.0
 
 # SITE SETTINGS
-title: KAIST CP  # Title in top navigation bar (navbar) and <head>
+title: Fearless Systems  # Title in top navigation bar (navbar) and <head>
 description: Where theory meets practice              # Site description in <head>
 # author: Jeehoon Kang                                # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"                # No slash at the end

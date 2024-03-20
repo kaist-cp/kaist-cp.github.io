@@ -28,7 +28,7 @@
   orcid: 0000-0003-3685-2320
   educations:
     [
-      "(2019 - Current) Ph.D. student in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang](https://www.fearless.systems/jeehoon.kang/)).",
+      "(2025, expected) Ph.D. student in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang]({{ site.baseurl }}/jeehoon.kang/)).",
       "(2019) B.S. in Computer Science and Engineering and B.A. in Philosophy. Inha University.",
     ]
 
@@ -66,7 +66,7 @@
   name: Seungmin Jeon
   korean_name: 전승민
   status: present
-  role: M.S. Student
+  role: Ph.D. Student
   image: assets/images/people/seungmin.jeon.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: zzz845zz
@@ -82,14 +82,15 @@
   name: Janggun Lee
   korean_name: 이장건
   status: present
-  role: M.S. Student
+  role: Ph.D. Student
   image: assets/images/people/janggun.lee.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: Lee-Janggun
   orcid: 0009-0002-0047-7717
   educations:
     [
-      "(2024) M.S. in Computer Science. KAIST (expected).",
+      "(2024 - Current) Ph.D. in Computer Science. KAIST.",
+      "(2024) M.S. in Computer Science. KAIST.",
       "(2022) B.S. in Mathematical Sciences & Computer Science. KAIST.",
     ]
 
@@ -97,7 +98,7 @@
   name: Minseong Jang
   korean_name: 장민성
   status: present
-  role: M.S. Student
+  role: Ph.D. Student
   image: assets/images/people/minseong.jang.jpeg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: minseongg
@@ -156,19 +157,23 @@
   name: Taewoo Kim
   korean_name: 김태우
   status: present
-  role: B.S. Student
+  role: M.S. Student
   image: assets/images/people/taewoo.kim.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: travis1829
   orcid: 0000-0003-4257-5294
-  educations: ["(2024) B.S. in Computer Science. KAIST (expected)."]
+  educations:
+    [
+      "(2024 - Current) M.S. in Computer Science. KAIST.",
+      "(2024) B.S. in Computer Science. KAIST."
+    ]
 
 - id: sunho.park
   kaist_id: sunho0371
   name: Sunho Park
   korean_name: 박선호
   status: present
-  role: B.S. Student
+  role: M.S. Student
   image: assets/images/people/sunho.park.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: kingdoctor123
@@ -180,29 +185,38 @@
   name: Jaewoo Kim
   korean_name: 김재우
   status: present
-  role: B.S. Student
+  role: M.S. Student
   image: assets/images/people/jaewoo.kim.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: Jaewookim08
-  educations: ["(2024) B.S. in Computer Science. KAIST (expected)."]
+  orcid: 0009-0003-3800-9879
+  educations:
+    [
+      "(2026) M.S. in Computer Science. KAIST (expected).",
+      "(2024) B.S. in Computer Science. KAIST."
+    ]
 
 - id: jeonghyeon.kim
   kaist_id: jeonghyeon.kim
   name: Jeonghyeon Kim
   korean_name: 김정현
   status: present
-  role: B.S. Student
+  role: M.S. Student
   image: assets/images/people/jeonghyeon.kim.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: powergee
   orcid: 0009-0000-7070-3578
-  educations: ["(2022) B.S. in Computer Science. University of Seoul."]
+  educations:
+    [
+      "(2024 - Current) M.S. student in AI Semiconductor. KAIST (supervisor: Prof. [Jeehoon Kang](https://www.fearless.systems/jeehoon.kang/)).",
+      "(2022) B.S. in Computer Science. University of Seoul."
+    ]
 
 - id: gieun.jeong
   name: Gieun Jeong
   korean_name: 정기은
   status: present
-  role: B.S. Student
+  role: M.S. Student
   image: assets/images/people/gieun.jeong.jpg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: jgiriboy
@@ -211,10 +225,47 @@
       "(2024) B.S. in Computer Science and Engineering. Inha University (expected).",
     ]
 
+- id: jonguk.jeon
+  name: Jonguk Jeon
+  korean_name: 전종욱
+  status: present
+  role: B.S. Student
+  image: assets/images/people/jonguk.jeon.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: 33577
+  educations:
+    [
+      "(2024) B.S. in School of Computing. KAIST (expected).",
+    ]
+
+- id: sungjae.im
+  name: Sungjae Im
+  korean_name: 임성재
+  status: present
+  role: B.S. Student
+  image: assets/images/people/sungjae.im.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: existar33
+  educations:
+    [
+      "(2027) B.S. in School of Computing. KAIST (expected).",
+    ]
+
+- id: seungho.jang
+  kaist_id: seungho.jang
+  name: Seungho Jang
+  korean_name: 장승호
+  status: external
+  role: B.S. Student
+  image: assets/images/people/seungho.jang.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: hoosong0235
+  educations: ["(2027) B.S. in Computer Science. KAIST (expected)."]
+
 - id: kisoo.kim
   name: Kisoo Kim
   korean_name: 김기수
-  status: present
+  status: external
   role: B.S. Student
   image: assets/images/people/kisoo.kim.jpeg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
@@ -305,6 +356,7 @@
   korean_name: 한예지
   status: alumni
   role: B.S.
+  job: Software Foundations Laboratory, SNU
   image: assets/images/people/yeji.han.jpeg
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: yj-han
@@ -359,7 +411,7 @@
   korean_name: 김정우
   status: alumni
   role: B.S.
-  job: Computer Architecture and Systems Lab, KAIST
+  job: Computer Architecture and Systems Laboratory, KAIST
   place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
   github: kimjungwow
   educations: ["(2021) B.S. in Computer Science. KAIST."]
@@ -750,3 +802,23 @@
   name: Duc-Than Nguyen
   status: external
   website: https://ducthann.github.io/
+
+- id: Jiyoung Song
+  name: Jiyoung Song
+  status: external
+  website: https://www.scopus.com/authid/detail.uri?authorId=57189687960
+
+- id: Sangwon Hyun
+  name: Sangwon Hyun
+  status: external
+  website: https://www.scopus.com/authid/detail.uri?authorId=58442838900
+
+- id: Eunkyoung Jee
+  name: Eunkyoung Jee
+  status: external
+  website: https://sites.google.com/se.kaist.ac.kr/ekjee
+
+- id: Doo-Hwan Bae
+  name: Doo-Hwan Bae
+  status: external
+  website: https://se.kaist.ac.kr/selab/professor/

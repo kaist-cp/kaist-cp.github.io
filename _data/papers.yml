@@ -13,7 +13,7 @@
   tags: [
     "gc",
   ]
-  website: gc
+  website: /gc
   doi: 10.1145/3622827
   copy_local: https://drive.google.com/file/d/1hBjJ6nhFYiTJ1KI5u7i8MvLPznysBGSD/view?usp=sharing
   artifact_local:
@@ -57,7 +57,7 @@
     "gc",
   ]
   doi: 10.1145/3558481.3591102
-  website: gc
+  website: /gc
   copy_local: https://drive.google.com/file/d/1t2SkkT2sV2bky3sLrhkBEahAzmwarjwz/view?usp=sharing
   copy_publisher: https://dl.acm.org/doi/10.1145/3558481.3591102
   artifact_local:
@@ -110,7 +110,7 @@
   artifact_local:
   - name: development
     url: https://github.com/kaist-cp/memento
-  website: pmem
+  website: /pmem
 
   abstract: "Persistent memory (PM) is an emerging class of storage technology that combines the performance
             of DRAM with the durability of SSD, offering the best of both worlds. This had led to a surge of
@@ -164,6 +164,18 @@
   copy_local: https://plv.mpi-sws.org/compass/paper.pdf
   website: https://plv.mpi-sws.org/compass/
 
+- title: "Continuous verification of system of systems with collaborative MAPE-K pattern and probability model slicing"
+  authors: [
+    "Jiyoung Song",
+    "jeehoon.kang",
+    "Sangwon Hyun",
+    "Eunkyoung Jee",
+    "Doo-Hwan Bae",
+  ]
+  venue: "Information and Software Technology"
+  year: 2022
+  doi: 10.1016/j.infsof.2022.106904
+
 - title: "Simuliris: A Separation Logic Framework for Verifying Concurrent Program Optimizations"
   authors: [
     "Lennard Gäher",
@@ -205,7 +217,7 @@
     url: https://github.com/kaist-cp/view-hw
   - name: model checker
     url: https://github.com/kaist-cp/rmem-persistency
-  website: pmem
+  website: /pmem
 
   abstract: "Non-volatile memory (NVM) is a cutting-edge storage technology that promises the
              performance of DRAM with the durability of SSD. Recent work has proposed several
@@ -238,7 +250,7 @@
   tags: [
     "gc",
   ]
-  website: gc
+  website: /gc
 
   doi: 10.1145/3385412.3385978
   copy_local: https://drive.google.com/file/d/1PlTzqi1U9bhEJRBXc8VzegFUsO57Cydh

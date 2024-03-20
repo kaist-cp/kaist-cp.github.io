@@ -10,10 +10,15 @@ excerpt: "Taewoo Kim's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/taewoo.kim.jpg" alt="{{ person.name }}">
 
-I am an **Undergraduate Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**.
-I'm interested in the design and verification of OSes or other concurrent systems, especially using **[Rust](https://www.rust-lang.org/)**.
+I am a **Master's Student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**.
+I'm interested in the design of OSes and other concurrent systems.
 
 {% include person_contact.md person_id=person_id %}
 
 
 {% include person_education.md person_id=person_id %}
+
+
+#### Awards and Honors
+
+- Summa Cum Laude (4.24/4.3), KAIST, 2024.

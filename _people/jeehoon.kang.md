@@ -8,17 +8,16 @@ title: Jeehoon Kang (강지훈)
 {%- assign person = site.data.people | where:"id",person_id | sample %}
 
 {: .alert .alert-info}
-**I'm actively recruiting motivated students of all levels interested in designing and verifying concurrent and parallel systems.** If you're interested, please **read this [instruction]({{ site.baseurl }}/join) and contact Jeehoon ASAP.**
+**We are currently seeking enthusiastic students at all academic levels who are interested in designing and verifying concurrent and parallel systems.**
+If this interests you, please **review these [instructions]({{ site.baseurl }}/join) and contact [Jeehoon]({{ site.baseurl }}/jeehoon.kang) as soon as possible.**
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/jeehoon.kang.jpg" alt="{{ person.name }}">
 
-I'm a **Tenure-Track Assistant Professor at [KAIST School of Computing](https://cs.kaist.ac.kr)** and the **Principal Investigator of [Concurrency and Parallelism Laboratory](https://www.fearless.systems)**.
-I'm also an **Adjunct Faculty at [KAIST Graduate School of AI Semiconductor](https://aisemi.kaist.ac.kr/)**.
-I received my Ph.D. from Seoul National University under the supervision of [Prof. Chung-Kil Hur](https://sf.snu.ac.kr/gil.hur).
+I am a **Tenure-Track Associate Professor at the [KAIST School of Computing](https://cs.kaist.ac.kr)** and the **Principal Investigator at the [Concurrency and Parallelism Laboratory](https://www.fearless.systems)**.
+Additionally, I serve as an **Adjunct Faculty member at the [Graduate School of AI Semiconductor](https://aisemi.kaist.ac.kr/)** and the [Department of Semiconductor System Engineering](https://sse.kaist.ac.kr/).
+My Ph.D. in Computer Science was earned at Seoul National University, supervised by [Prof. Chung-Kil Hur](https://sf.snu.ac.kr/gil.hur). I was also advised by [Prof. Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).
 
-I'm designing and verifying concurrent and parallel systems, from microarchitectures to programming languages and algorithms, that greatly improve performance and reduce power consumption,
-thereby serving as the basis for the upcoming era of massive data processing.
-
+My work is centered around designing and verifying concurrent and parallel systems. These systems range from micro-architectures to programming languages and algorithms, aiming to substantially enhance performance and reduce power consumption. This work is crucial for the impending era of extensive data processing.
 
 {% include person_contact.md person_id=person_id %}
 
@@ -28,28 +27,27 @@ thereby serving as the basis for the upcoming era of massive data processing.
 
 #### Experiences
 
-- Chief R&D Officer, [FuriosaAI](https://furiosa.ai/), September, 2017 - .
+- Chief R&D Officer at [FuriosaAI](https://furiosa.ai/), from September 2017 to the present. 
   <br />
-  (topic: deep learning accelerator and its compiler)
+  (Focus: deep learning accelerator and its compiler)
 
-- Intern (Researcher), [MPI-SWS](https://www.mpi-sws.org/), September, 2015 - December, 2015
+- Intern (Researcher) at [MPI-SWS](https://www.mpi-sws.org/), from September 2015 to December 2015.
   <br />
-  (topic: relaxed-memory concurrency, advisor: Dr. [Derek Dreyer](https://people.mpi-sws.org/~dreyer/))
+  (Focus: relaxed-memory concurrency; Advisor: Dr. [Derek Dreyer](https://people.mpi-sws.org/~dreyer/))
 
-- Intern (Software Engineer), Google Korea, June, 2008 – August, 2008.
+- Intern (Software Engineer) at Google Korea, from June 2008 to August 2008.
   <br />
-  (topic: machine translation)
+  (Focus: machine translation)
 
 
 #### Research
 
-See the [projects]({{ site.baseurl }}{% link pages/home.md %}#projects) and [publications]({{ site.baseurl }}{%
-link pages/home.md %}#publications) pages.
+For more information on my research projects and publications, please visit the [projects]({{ site.baseurl }}{% link pages/home.md %}#projects) and [publications]({{ site.baseurl }}{% link pages/home.md %}#publications) pages.
 
 
 #### Teaching
 
-See the [lectures]({{ site.baseurl }}{% link pages/home.md %}#lectures) page.
+Details about my lectures can be found on the [lectures]({{ site.baseurl }}{% link pages/home.md %}#lectures) page.
 
 
 #### Professional Activities

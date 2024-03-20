@@ -7,111 +7,77 @@ permalink: /tools
 
 ## Services
 
-- Calendar: <https://calendar.google.com/>
-- Email: <https://mail.google.com/>
+- Calendar: <https://calendar.google.com>
+- Email: <https://mail.google.com>
 - Drive
-  + Google: <https://drive.google.com/>
-  + Nextcloud: <https://nextcloud.fearless.systems/>
-- Chat: <https://chat.fearless.systems/>
-- Git repositories
-  + GitLab: <https://git.fearless.systems/>
-  + GitHub: <https://github.com/kaist-cp/>
-- Development machines: <https://dev.fearless.systems/>
-  + The `/home/$USER/local-home` directory is local/single SSD (not remote/replicated HDD like home's other directories).
-    *WARNING*: this directory is more likely to be lost, e.g., due to media failure.
-  + The `/home/$USER/share` directory is shared to the lab members at `/home/_share/$USER`.
-  + The `/home/$USER/share/www` directory is served at <https://public.fearless.systems/$USER>.
-    *WARNING*: it's open to the internet.
+  + Google: <https://drive.google.com>
+  + Seafile: <https://drive.fearless.systems>
+- Chat
+  + Zulip (Message): <https://chat.fearless.systems>
+  + Jitsi Meet (Voice/Video): <https://jitsi.fearless.systems>
+- Git
+  + GitLab: <https://git.fearless.systems>
+  + GitHub: <https://github.com/kaist-cp>
+- Development machines: <https://dev.fearless.systems>
+  + The `/home/$USER/local-home` directory is local/single SSD (not remote/replicated HDD like other directories in home).
+    *WARNING*: this directory has a higher risk of data loss, e.g., due to media failure.
+  + The `/home/$USER/share` directory is shared with lab members at `/home/_share/$USER`.
+  + The `/home/$USER/share/www` directory is publicly accessible at <https://public.fearless.systems/$USER>.
+    *WARNING*: it is open to the internet.
 - VPNs
-  + Rack (server room): <https://rack.fearless.systems/>
-  + Office: <https://office.fearless.systems/>
+  + Server room: <https://rack.fearless.systems>
+  + Office: <https://office.fearless.systems>
 - Internal document: <https://git.fearless.systems/kaist-cp/infra-internal>
 - Courses
-  + CS431: <https://github.com/kaist-cp/cs431/>
-  + CS420: <https://github.com/kaist-cp/cs420/>
-  + CS220: <https://github.com/kaist-cp/cs220/>
+  + Development machines: <https://cloud.fearless.systems>
+  + CS431: <https://github.com/kaist-cp/cs431>
+  + CS420: <https://github.com/kaist-cp/cs420>
+  + CS220: <https://github.com/kaist-cp/cs220>
 
 ## Onboarding
 
-- Send an email from your `{firstname}.{lastname}@kaist.ac.kr` account to Jeehoon (`jeehoon.kang@kaist.ac.kr`).
+- Email Jeehoon (`jeehoon.kang@kaist.ac.kr`) from your `{firstname}.{lastname}@kaist.ac.kr` account.
 
-- Account (Google Workspace): receive your `{firstname}.{lastname}@cp.kaist.ac.kr` Google Workspace account from Jeehoon.
-  You will use this account for all the web services (except for GitHub).
+- Account (Google Workspace): Receive your `{firstname}.{lastname}@cp.kaist.ac.kr` Google Workspace account from Jeehoon.
+  Use this account for all web services (except GitHub).
 
 - [Calendar (Google)](https://calendar.google.com):
   Manage your schedule here.
-  If you want to have a meeting, just create a schedule, write down agenda, and directly invite people.
+  To arrange a meeting, simply create an event, include an agenda, and directly invite participants.
 
 - [Email (Google)](https://mail.google.com)
-
-    + Write [proper formal emails](https://www.wikihow.com/Write-a-Formal-Email). Do not heavily markup emails.
-
+    + Write [proper formal emails](https://www.wikihow.com/Write-a-Formal-Email). Avoid excessive email markup.
     + Check both `{firstname}.{lastname}@kaist.ac.kr` and `{firstname}.{lastname}@cp.kaist.ac.kr` email accounts.
-      FYI, Jeehoon forwards emails from `{firstname}.{lastname}@kaist.ac.kr` to `{firstname}.{lastname}@cp.kaist.ac.kr` and check emails in Gmail.
+      Jeehoon forwards emails from the former to the latter and checks them in Gmail.
 
 - [Drive, Docs, Spreadsheet, Slide, Form (Google)](https://drive.google.com):
-  Put all project-related files to shared Google Drive.
+  Store all project-related files in the shared Google Drive.
 
-- [Drive (Nextcloud)](https://nextcloud.fearless.systems/)
-
-  I recommend you to set up an "external storage" to your home directory.
-  In [here](https://nextcloud.fearless.systems/settings/user/externalstorages), add an SFTP connection with the following configuration:
-
-    + Authentication: username and password
-
-    + Host: `10.30.0.2:2200`
-
-    + Root: `/kaist-cp-home/{google-workspace-id}`
-
-    + Username: `{google-workspace-id}`
-
-    + Password: `{google-workspace-password}`
+- [Drive (Seafile)](https://drive.fearless.systems)
 
 - [Chat (Zulip)](https://chat.fearless.systems)
-
-    + First things first, say hi in [this topic](https://chat.fearless.systems/#narrow/stream/112-general/topic/.EC.86.8C.EA.B0.9C).
-
-    + It is our primary method of communication.
+    + Say hi in [this topic](https://chat.fearless.systems/#narrow/stream/112-general/topic/.EC.86.8C.EA.B0.9C) as soon as possible.
+    + Zulip is our primary communication method.
+    + To start a video call, click the Video button while writing a message, which creates a [Jitsi Meet](https://jitsi.fearless.systems) link.
 
 - Git repositories
-
-    + [GitLab](https://git.fearless.systems): browse projects to see what's interesting.
-
-    + GitHub: we're at the [`kaist-cp` organization](https://github.com/kaist-cp).
-      Display your real name in your public profile (Settings > Profile > Name).
-      We prefer GitLab to GitHub, though.
-
-    + If you want to create a new organization or repository, ask Jeehoon.
-
-    + Configure email notifications for mentions and issue/PR/MR comments.
+    + [GitLab](https://git.fearless.systems): Explore projects to find your interests.
+    + GitHub: Join the [`kaist-cp` organization](https://github.com/kaist-cp). Display your real name in your public profile (Settings > Profile > Name). We prefer GitLab over GitHub.
+    + For creating new organizations or repositories, ask Jeehoon.
+    + Set up email notifications for mentions and issue/PR/MR comments.
 
 - [Website]({{ site.baseurl }})
-
     + Create your website by sending a PR to [the website repository](https://github.com/kaist-cp/kaist-cp.github.io).
-
-    + Keep maintaining your website.
+    + Regularly update your website.
 
 - Development
-
     + Learn VSCode. 
-    
-      If you insist on 적폐 editors like Vim or Emacs, I won't fight with you. But keep in your mind that the winner of the editor war---vim vs emacs---is vs(code).
-
-    + Learn Git. 
-    
-      Here are good tutorials from [Atlassian](https://www.atlassian.com/git/tutorials) and [GitHub](https://lab.github.com/).
-
-    + Learn SSH.
-
-        * Generate your ed25519 SSH key: <https://www.ssh.com/academy/ssh/keygen>.
-
-        * Authorize the key in servers: <https://www.ssh.com/academy/ssh/copy-id>. From now on, you must never write down password every time.
-
-        * Configure your local SSH config: <https://linuxize.com/post/using-the-ssh-config-file/>
-
-        * Use `ssh-agent`.
-
-    + Study [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Korean translation](https://missing-semester-kr.github.io/)), except for "Editors (Vim)".
-      Again, please use VSCode.
-
+      If you prefer editors like Vim or Emacs, it's acceptable, but remember VSCode is widely used.
+    + Master Git with tutorials from [Atlassian](https://www.atlassian.com/git/tutorials) and [GitHub](https://lab.github.com/).
+    + Understand SSH.
+        * Generate an ed25519 SSH key: <https://www.ssh.com/academy/ssh/keygen>.
+        * Authorize your key on servers: <https://www.ssh.com/academy/ssh/copy-id>. Avoid using passwords.
+        * Set up your local SSH config: <https://linuxize.com/post/using-the-ssh-config-file>
+        * Utilize `ssh-agent`.
+    + Complete [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Korean translation](https://missing-semester-kr.github.io/)), excluding "Editors (Vim)".
     + Use the development machines as [described here](#services).
